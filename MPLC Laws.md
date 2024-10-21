@@ -18,7 +18,6 @@ further force or effect after such rules have taken effect.
 **2.2** Authorized local court representatives have a certain legal right to fulfill their duties. 
 
 **2.3** Types of different local court representatives and their legal rights.
-       
 - **2.3.1** *The Judge*: The Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
 - **2.3.2** *The Jury*: The jury has the obligation to discuss and give a verdict on the given local discord or the Minecraft servers cases.
 - **2.3.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations that somehow involve both parties (*more in MPSC and MPLC differences and relations*), although all their decisions should be within the bounds of existing laws and practices. 
@@ -31,3 +30,5 @@ further force or effect after such rules have taken effect.
 - **3.1.1** Submitting a complaint through a ticket means you have sent it to the Server Attorney, who will decide what legal or lawful action to take in response. The Server Attorney will likely address your legal request by scheduling a court appointment on a mutually agreed-upon date.
 - **3.1.2** Absence from court due to medical or other emergencies is not punishable. In such cases, a new appointment will be scheduled.
 - **3.1.3** Absence from court without a valid excuse is punishable, you may get a warning and typically the case will not be automatically suspended. However, if the Mouldy Potato Supreme Court (MPSC) is involved, there may be a possibility of suspension. The judge may proceed to suspend the case and impose the punishment on the guilty party, as suggested by the                 Server Attorney.
+
+**3.2** The complaint must include legitimate proof of unlawful actions committed by the server member. It should also contain your Minecraft and Discord name/nickname, along with a detailed description of the entire situation.
