@@ -19,9 +19,11 @@ further force or effect after such rules have taken effect.
 
 **2.2** Types of different local court representatives and their legal rights.
        
-- **2.2.1** *The Judge*: Judges have the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty    party as suggested by the server attorney.
+- **2.2.1** *The Judge*: The Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty    party as suggested by the server attorney.
 
-- **2.2.2** *The Jury*
+- **2.2.2** *The Jury*: The jury has the obligation to discuss and give a verdict on the given local discord or the Minecraft servers cases.
+
+- **2.2.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations that somehow involve both parties (*more in MPSC and MPLC differences and relations*), although all their decisions should be within the bounds of existing laws and practices. 
         
         
         
