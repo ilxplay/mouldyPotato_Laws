@@ -19,7 +19,7 @@ further force or effect after such rules have taken effect.
 
 **2.2** Types of different local court representatives and their legal rights.
         
-*Tabspace* **2.2.1** Judge: Judges have the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty    party as suggested by the server attorney.
+emsp **2.2.1** Judge: Judges have the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty    party as suggested by the server attorney.
         
         **2.2.2**
         
