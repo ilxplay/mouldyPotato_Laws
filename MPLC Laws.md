@@ -16,6 +16,7 @@ further force or effect after such rules have taken effect.
 **2.1** Authorized local court representatives are the persons who have gotten their legal right to represent a certain role in the local court.
 
 **2.2** Authorized local court representatives have a certain legal right to fulfill their duties. 
+- **2.2.1** If the authorized local court representative can't fulfill their duties, this will raise a question of replacing them with more competent representatives, during the next coming "law-juridical" conference where this issue will be raised and resolved in cooperation with the Server Attorney.
 
 **2.3** Types of different local court representatives and their legal rights.
 - **2.3.1** *The Judge*: The Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
@@ -32,3 +33,5 @@ further force or effect after such rules have taken effect.
 - **3.1.3** Absence from court without a valid excuse is punishable, you may get a warning and typically the case will not be automatically suspended. However, if the Mouldy Potato Supreme Court (MPSC) is involved, there may be a possibility of suspension. The judge may proceed to suspend the case and impose the punishment on the guilty party, as suggested by the                 Server Attorney.
 
 **3.2** The complaint must include legitimate proof of unlawful actions committed by the server member. It should also contain your Minecraft and Discord name/nickname, along with a detailed description of the entire situation.
+
+**3.3** Within seven days of receiving the complaint, the Server Attorney will contact you for a possible date for the first court hearing. If there is still an opportunity for both parties to solve the issue, without a Mouldy Potato Local Court (*MPLC*) Server Attorney will find an option.
