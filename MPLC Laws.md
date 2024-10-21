@@ -31,3 +31,5 @@ further force or effect after such rules have taken effect.
 
 **3.1** A so-called "complaint" is a legal action that you took against another Mouldy Potato member for committing an unlawful action against you or another server member.
 - **3.1.1** Submitting a complaint through a ticket means you have sent it to the Server Attorney, who will decide what legal or lawful action to take in response. The Server Attorney will likely address your legal request by scheduling a court appointment on a mutually agreed-upon date.
+- **3.1.2** Absence from court on medical and other emergencies is not punishable, in this case, the new appointment will be decided.
+- - **3.1.2** Absence from court without a valid excuse is punishable, mostly the case won't be suspended automatically, but if Mouldy Potato Supreme Court (*MPSC*) is involved in the case there could be a possibility.
