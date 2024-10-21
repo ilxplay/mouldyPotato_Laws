@@ -9,7 +9,7 @@
 **1.2** Such rules shall not abridge, enlarge, or modify any substantive right. All laws in conflict with such rules shall be of no
 further force or effect after such rules have taken effect. 
 
-**1.3** Any change of any rules, court procedures, and court practices is implemented and changed by the law-juridical conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's discord and Minecraft servers
+**1.3** Any change of any rules, court procedures, and court practices is implemented and changed by the "law-juridical" conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's discord and Minecraft servers
 
 ## | 2 | Authorized local court representatives
 
@@ -24,6 +24,7 @@ further force or effect after such rules have taken effect.
 - **2.2.2** *The Jury*: The jury has the obligation to discuss and give a verdict on the given local discord or the Minecraft servers cases.
 
 - **2.2.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations that somehow involve both parties (*more in MPSC and MPLC differences and relations*), although all their decisions should be within the bounds of existing laws and practices. 
-        
+
+**2.3** ALL authorized local court representatives should be assigned by the Server Attorney following the joint decision made during the "law-juridical" conference.  
         
         
