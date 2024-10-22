@@ -17,9 +17,10 @@
 
 **2.4** The Judge needs to disqualify himself or herself in a proceeding in which the Justice’s impartiality might reasonably be questioned.
 - **2.4.1** The Judge has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding.
-- **2.4.2** In case when the Judge is unable to make a clear assessment of the situation, he or she will be disqualified from that case by the Server Attorney.
+- **2.4.2** In case when the Judge is involved in the case as a victim, a witness, or any other way that may question the Judge's impartiality.
+- - **2.4.3** In case when the Judge is unable to make a clear assessment of the situation, he or she will be disqualified from that case by the Server Attorney.
 
-**2.5** In case of violation of any of the inner code conducts justicial representatives will get consequences from temporary disqualification to permanent juridical occupation ban.
+**2.5** In case of violation of any of the inner code conducts, justicial representatives will get consequences from temporary disqualification to a permanent juridical occupation ban.
 
 ## | 3 | External Code Of Conduct
 
