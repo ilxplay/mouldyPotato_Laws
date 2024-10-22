@@ -41,3 +41,5 @@ further force or effect after such rules have taken effect.
 - **3.4.2** *Private lawyer* A private lawyer works independently, and you can hire one whenever you need legal assistance. There are no restrictions, as a private lawyer is not employed by Mouldy Potato law enforcement or the Server Attorney. (*more in lawyers.md*)
 - **3.4.3** *Self-Representation* Within the self-representation you have the right to speak for yourself in court without a solicitor or other legal professional. You may also invite someone to court to help you with taking notes or giving advice.
 -  -  **3.4.3.1** The person you invite as a helper is not allowed, to speak for you, interfere in any way with the proceedings, and sign documents on your behalf.
+
+**3.5** A so-called "Class action" is when one or several individuals (*class representatives*) file a lawsuit on behalf of a larger group of people who have similar legal claims. This type of lawsuit allows individuals who may not have the resources to file individual claims to join together and seek legal relief as a collective group, or "class."
