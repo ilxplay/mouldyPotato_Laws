@@ -49,8 +49,42 @@ further force or effect after such rules have taken effect.
 - **3.5.4** Self-representing in court during the Local class action case is prohibited. To represent the collective group behind the Local case action you NEED a lawyer (*3.5.2, 3.4.3*)
 - **3.5.5** Minimal number of Local class action representers is 3.
 
+## | 4 | Mouldy Potato Local Court (*MPLC*) session process
 
+This article outlines the procedure for holding Mouldy Potato Local Court (*MPLC*) sessions. During the session, the judge follows established rules but has the right, either on their own initiative or at the suggestion of the trial participants, to modify the session's procedures within the framework of the proceedings. These changes must not infringe upon the parties' right to a fair and equal trial.
 
+Procedure for holding Mouldy Potato Local Court (*MPLC*) sessions:
+**Preliminary Checks:**
+
+The jury needs to be ready.
+The judge, shall verify the documents of the individuals appearing before the court and record the information in the court proceedings log.
+The judge will check the attendance of all parties. If any party is absent, the judge may postpone the hearing for no more than 20 minutes to allow the other party time to appear. Otherwise the session may be suspended and The Server Attorney may plan another court session.
+**Opening of the Session:**
+
+### The judge will formally open the court session and announce key information to the parties, including:
+The case number.
+The names of all parties involved.
+The judge will ask the parties if they have any suggestions regarding the conduct of the trial.
+
+**Introductory Remarks:**
+
+The judge allows each party to make an opening statement.
+After the opening remarks, the judge will ask the parties if they have any motions, objections, or statements.
+
+**Conduct of the Trial:**
+
+The judge will determine the order of proceedings, including the sequence and duration of each party’s speech, taking into account the participants' opinions.
+The judge directs the court session, ensuring that the rights of all parties are upheld, facilitating a thorough and complete examination of the evidence and circumstances of the case. The judge will consider applications, motions, and objections raised by the participants.
+The judge is not required to explain the reasons for accepting or rejecting motions, protests, or other statements from the parties.
+
+**Maintaining Order:**
+
+The judge will take necessary measures to maintain order and decorum during the court session.
+
+**Closing Statements:**
+
+At the end of the trial, the judge will give the parties the opportunity to make closing statements.
+After the final statements, the judge will deliberate and retire to render a decision. If the jury is present, The judge will give them enough time to make a concrete decision. If the judge or the jury finds it impossible to decide immediately, a decision may be made in later. If the lawsuit is controversial it could be possible that the next court session will be done shortly.
 
 
 
