@@ -48,6 +48,7 @@ further force or effect after such rules have taken effect.
 - **3.5.3** Local class action representatives may hire a private lawyer, they will not be able to obtain a public lawyer from Mouldy Potato law enforcement or the Server Attorney.
 - **3.5.4** Self-representing in court during the Local class action case is prohibited. To represent the collective group behind the Local case action you NEED a lawyer (*3.5.2, 3.4.3*)
 - **3.5.5** Minimal number of Local class action representers is 3.
+- **3.5.6** A "Local class action" has a priority over a "complaint".
 
 ## | 4 | Mouldy Potato Local Court (*MPLC*) session process
 
