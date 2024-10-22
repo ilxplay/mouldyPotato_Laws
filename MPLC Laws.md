@@ -37,4 +37,5 @@ further force or effect after such rules have taken effect.
 **3.3** Within seven days of receiving the complaint, the Server Attorney will contact you for a possible date for the first local court hearing. If there is still an opportunity for both parties to solve the issue, without a Mouldy Potato Local Court (*MPLC*) Server Attorney will find an option.
 
 **3.4** After all parties proceed with a court appointment on a mutually agreed date, you may request a free Public Lawyer. There may be a possibility that the public lawyer isn't available, the only option you've left is a private lawyer or self-representing.
-- **3.4.1** *Public Lawyer*: The public lawyer is a lawyer that is given by the Mouldy Potato law enforcement, currently by the Server Attorney.  
+- **3.4.1** *Public Lawyer*: The public lawyer is a lawyer that is given by the Mouldy Potato law enforcement. To request a public lawyer you need to fill and send a form to the Server Attorney, if the public lawyer is availible you will likely get it for free.
+- **3.4.2** *Private lawyer* The private lawyer is an option for a legal court defence,
