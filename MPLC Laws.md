@@ -55,14 +55,16 @@ further force or effect after such rules have taken effect.
 This article outlines the procedure for holding Mouldy Potato Local Court (*MPLC*) sessions. During the session, the judge follows established rules but has the right, either on their own initiative or at the suggestion of the trial participants, to modify the session's procedures within the framework of the proceedings. These changes must not infringe upon the parties' right to a fair and equal trial.
 
 Procedure for holding Mouldy Potato Local Court (*MPLC*) sessions:
+
 **Preliminary Checks:**
 
 The jury needs to be ready.
 The judge, shall verify the documents of the individuals appearing before the court and record the information in the court proceedings log.
 The judge will check the attendance of all parties. If any party is absent, the judge may postpone the hearing for no more than 20 minutes to allow the other party time to appear. Otherwise the session may be suspended and The Server Attorney may plan another court session.
+
 **Opening of the Session:**
 
-### The judge will formally open the court session and announce key information to the parties, including:
+The judge will formally open the court session and announce key information to the parties, including:
 The case number.
 The names of all parties involved.
 The judge will ask the parties if they have any suggestions regarding the conduct of the trial.
