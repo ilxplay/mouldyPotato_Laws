@@ -46,7 +46,7 @@ further force or effect after such rules have taken effect.
 - **3.5.1** A reason for initiating a local class action must be related to events that occurred within the Mouldy Potato Minecraft server and should not have a significant impact on the Mouldy Potato Discord community. If the impact extends significantly to real-life or non-Minecraft settings, you will need to initiate a "Global class action"(*more in MPSC Laws.md*) within the Mouldy Potato Supreme Court. (*MPSC*).
 - **3.5.2** The verdict of a local class action applies to all representatives, and it is binding for every member who signed it.
 - **3.5.3** Local class action representatives may hire a private lawyer, they will not be able to obtain a public lawyer from Mouldy Potato law enforcement or the Server Attorney.
-- **3.5.4** Self-representing in court during the Local class action case is prohibited. To represent the collective group behind the Local case action you NEED a lawyer (*3.5.2, 3.4.3*)
+- **3.5.4** Self-representing in court during the Local class action case is prohibited. To represent the collective group behind the Local case action you NEED a lawyer (*3.5.2, 3.5.3*)
 - **3.5.5** Minimal number of Local class action representers is 3.
 - **3.5.6** A "Local class action" has a priority over a "complaint".
 
