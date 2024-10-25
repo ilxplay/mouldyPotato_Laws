@@ -9,7 +9,7 @@
 **1.3** Such rules shall not abridge, enlarge, or modify any substantive right. All laws in conflict with such rules shall be of no
 further force or effect after such rules have taken effect. 
 
-**1.4** Any change of any rules, court procedures, and court practices is implemented and changed by the "law-juridical" conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's Discord and Minecraft servers
+**1.4** Any change of any local court rules, local court procedures, and local court practices is implemented and changed by the "law-juridical" conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's Discord and Minecraft servers
 
 ## | 2 | Authorized local court representatives
 
