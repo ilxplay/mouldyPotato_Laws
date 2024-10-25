@@ -2,16 +2,16 @@
 
 ## | 1 | Purpose and law enforcement
 
-**1.1** The Supreme Court has the legal right  to approve the laws and server rules.
+**1.1** The Supreme Court has the legal authority to approve and draft new server laws, as well as to amend and rewrite existing ones.
 
-**1.2** The Supreme Court has the legal right to decide and arbitrate the so-called "global cases". (*further in 2.1*)
+**1.2** The Supreme Court has the legal authority to decide and arbitrate the so-called "global cases" within the existing laws. (*further in 2.1*)
 
-**1.3** The Supreme Court has the legal right to initiate a global case against a server member. (*further in 2.2*)
+**1.3** The Supreme Court has the legal authority to initiate a global case against a server member. (*further in 2.2*)
+
+## | 2 | legal proceedings
 
 **1.4** Any changes to the Supreme Court's laws and rules must first be discussed by the Law-Juridical Conference to establish a foundational concept. Afterward, this concept will be submitted to the Mouldy Potato Supreme Court (MPSC), which will finalize it and transform it into the appropriate law, rule, or practice.
-
-**1.4.1** ALL laws, rules, and practices made and approved by the MSPC need to be based on compliance with the basic laws of the server. If not the laws, rules, and practices will not be legitimate.
-
+- **1.4.1** ALL laws, rules, and practices made and approved by the MSPC need to be based on compliance with the basic laws of the server. If not the laws, rules, and practices will not be legitimate.
 
 ## | 2 | Authorized supreme court representatives
 
