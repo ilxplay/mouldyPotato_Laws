@@ -8,10 +8,10 @@
 
 **1.3** The Supreme Court has the legal authority to initiate a global case against a server member. (*further in 2.2*)
 
-## | 2 | legal proceedings
+## | 2 | Legal proceedings
 
-**1.4** Any changes to the Supreme Court's laws and rules must first be discussed by the Law-Juridical Conference to establish a foundational concept. Afterward, this concept will be submitted to the Mouldy Potato Supreme Court (MPSC), which will finalize it and transform it into the appropriate law, rule, or practice.
-- **1.4.1** ALL laws, rules, and practices made and approved by the MSPC need to be based on compliance with the basic laws of the server. If not the laws, rules, and practices will not be legitimate.
+**2.1** Any changes to the Supreme Court's laws and rules must first be discussed by the Law-Juridical Conference to establish a foundational concept. Afterward, this concept will be submitted to the Mouldy Potato Supreme Court (MPSC), which will finalize it and transform it into the appropriate law, rule, or practice.
+- **2.1.1** ALL laws, rules, or practices made and approved by the MSPC need to be based on compliance with the basic laws of the server. If not, the laws, rules, or practices will not be legitimate.
 
 ## | 2 | Authorized supreme court representatives
 
