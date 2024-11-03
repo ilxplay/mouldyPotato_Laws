@@ -21,8 +21,8 @@
 - **2.2.1** *to be decided*
 
 **2.3** Types of different Supreme Court representatives and their legal rights.
--**2.3.1** *Server Attorney*
--**2.3.2**
+- **2.3.1** *Server Attorney*
+- **2.3.2** **
 
 
 
