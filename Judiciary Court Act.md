@@ -1,4 +1,4 @@
-# Judiciary
+# Judiciary Court Act
 
 
 ## | 1 | General Act
@@ -6,6 +6,15 @@
 **1.1** The Mouldy Potato “Judiciary” Act is the fundamental piece of legislation during the conduct of any court proceedings and the work of the court in general.
 
 **1.2** In a court, all parties are equal before the law.
+
+**1.3** Plaintiff: The prosecuting party or a private prosecutor, is a person involved in the case who has filed a statement of claim with the MPLC or MPSC. The right to a class action is recognized.
+
+**1.4** Defendant: Defense Party the person involved in the case who is being sued in court.
+- **1.4.1** The defendant can be an organization or The Mouldy Potato Server.
+- **1.4.2** If the defendant is an organization, it must provide a representative to the court.
+- **1.4.3** If the defendant is the Mouldy Potato Server, the Mouldy Potato Server Attorney must represent it.
+
+**1.5** The Mouldy Potato Server Prosecutor is a legal authority who is legally obligated to form written opinions, conduct investigations, collect evidence, and perform other duties as required by the court. In cases defined by law, the prosecutor represents the Mouldy Potato Server or complements if needed  the Server Attorney in court to support the prosecution.
 
 ## | 2 | Inner Code Of Conduct
 
