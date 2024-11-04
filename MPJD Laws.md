@@ -1,6 +1,6 @@
 # Moudly Potato Justice Department (*MPJD*)
 
-## General Act | 1 |
+## | 1 | General Act
 
 **1.1** The Mouldy Potato Justice Department (*MPJD*) is the department of the Mouldy Potato's Discord and Minecraft servers responsible for enforcing the law and administering justice in the Mouldy Potato Discord and Minecraft Server.
 
@@ -23,7 +23,7 @@
 
 **1.4**  The legal basis for the activity of the Mouldy Potato Justice Department shall be the General Laws of The Mouldy Potato Discord and Minecraft server and the other normative legal acts and laws of the Mouldy Potato server.
 
-## Duty Rights | 2 |
+## | 2 | Duty Rights
 
 **2.1** MPJD may request access to records and other information through the issuance of a legal order. 
 
@@ -37,11 +37,11 @@
 
 **2.6** 
 
-## Responsibility and protection | 3 |
+## | 3 | Responsibility and protection 
 
 **3.1** It is prohibited to provide any explanations on the merits of cases and materials before the Court, or to make them available for review, except by decision of the Supreme Court or the Server Attorney.
 
-## Prosecuting Branch | 4 |
+## | 4 | Prosecuting Branch
 
 **4.1** The Prosecuting Branch will request that Mouldy Potato Members participate in questioning, provide testimony, explanations, and other procedural actions as outlined in current legislation and existing proceedings. Appearance upon such requests is mandatory; if a person is unwilling to comply, there will be consequences.
 
