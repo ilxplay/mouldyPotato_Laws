@@ -18,7 +18,7 @@
 **1.3** The Server Attorney heads the Department of Justice. The Server Attorney is the head of the server law enforcement, ensuring that laws are uniformly and adequately enforced and, if necessary, requesting revisions to laws or practices.
 - **1.3.1** The Mouldy Potato Prosecutor is the head of the Prosecuting Branch (*PB*) of the Mouldy Potato Justice Department.
 - - **1.3.1.1** The Mouldy Potato Prosecutor is appointed and can be dismissed by the Law-Juridical Conference. In some extraordinary cases, he can be appointed by the Mouldy Potato Server Attorney.
-- **1.3.2** Mouldy Potato Secret Service is an investigation branch of the Mouldy Potato Justice Department.
+- **1.3.2** Mouldy Potato Secret Service (*MPSS*) is an investigation branch of the Mouldy Potato Justice Department.
 - **1.3.3** Mouldy Potato Public Lawyer Service (*MPPLS*) is a branch of MPJD, that provides public lawyers for Local Court hearings free of charge.
 
 **1.4**  The legal basis for the activity of the Mouldy Potato Justice Department shall be the General Laws of The Mouldy Potato Discord and Minecraft server and the other normative legal acts and laws of the Mouldy Potato server.
