@@ -33,7 +33,7 @@
 
 **2.4** Set aside its rulings, or other acts and decisions that were improperly drafted.
 
-**2.5** To ensure compliance with law and order, prevent and eliminate violations of the rights and interests of citizens and organizations, issue orders to correct or prevent legal violations, and demand the cessation or prevention of violations of existing regulatory and legal acts.
+**2.5** To ensure compliance with law and order, prevent and eliminate violations of the rights and interests of all server members and organizations, issue orders to correct or prevent legal violations, and demand the cessation or prevention of violations of existing regulatory and legal acts.
 
 **2.6** 
 
