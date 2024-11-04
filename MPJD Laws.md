@@ -43,6 +43,6 @@
 
 ## Prosecuting Branch | 4 |
 
-**4.1** 
+**4.1** The Prosecuting Branch will request that Mouldy Potato Members participate in questioning, provide testimony, explanations, and other procedural actions as outlined in current legislation and existing proceedings. Appearance upon such requests is mandatory; if a person is unwilling to comply, there will be consequences.
 
-##
+**4.2** In the course of an investigation, including in response to claims and/or suspected legal violations, to conduct any legally provided investigative actions, including the initiation of criminal cases, to seek the prosecution of individuals who have violated the law, and to issue law enforcement actions, including the preparation of a court lawsuit in accordance with established procedures and laws.
