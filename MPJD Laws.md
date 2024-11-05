@@ -41,6 +41,14 @@
 
 **3.1** It is prohibited to provide any explanations on the merits of cases and materials before the Court, or to make them available for review, except by decision of the Supreme Court or the Server Attorney.
 
+**3.2** Agents of the Mouldy Potato Justice Department investigation and secret units are classified employees who are prohibited from revealing their identities, including to other government employees, without authorization from the Server Attorney.
+
+**3.3** Information about confedentional MPDJ records and persons assisting them on a confidential basis may not be disclosed to the mebers of the server. Disclosure of such information is possible by order of the Server Attorney.
+
+**3.4** Information about confedential MPDJ records, and persons assisting them on a confidential basis, may be disclosed to other Mouldy Potato organisations, structures, and any other server members -ONLY- upon the decision of the Server Attorney.
+
+**3.5** Server members have the right to appeal against actions of MPDJ employees: to the Server Attorney or to the Supreme Court if they believe that these actions caused infringement of their rights, inflicted moral damage or caused them losses.
+
 ## | 4 | Prosecuting Branch
 
 **4.1** The Prosecuting Branch will request that Mouldy Potato Members participate in questioning, provide testimony, explanations, and other procedural actions as outlined in current legislation and existing proceedings. Appearance upon such requests is mandatory; if a person is unwilling to comply, there will be consequences.
