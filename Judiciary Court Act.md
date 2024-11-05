@@ -41,5 +41,35 @@
 
 **3.4** If the judge asks for testimony from either party or poses a question, you should respond respectfully and politely.
 
+## | 4 | Duty and actions
+
+**4.1** A Lawsuit is the coming together of parties to a dispute to protect the violated or disputed rights, freedoms, and legitimate interests of the Mouldy Potato Players or organisations.
+
+**4.2** Appeal - A request to the Mouldy Potato Local or Mouldy Potato Supreme Courts to appeal their judicial verdict.
+
+**4.3** A court request (order) is a formal court order that may contain instructions that are binding on certain parties or persons/organizations and may compel them to do or refrain from doing certain acts. 
+
+**4.4** The court verdict is the final decision on the case, made by the judge after reviewing the case and hearing the parties, upon the conclusion of proceedings. This decision may resolve disputed issues and establish binding legal conclusions, circumstances, rights, and obligations of the parties.
+
+**4.5** Judicial notice is a judicial act emanating from a Judge or the Server Attorney, which notifies a particular person or group of persons involved in a case of an upcoming court hearing, its postponement, granting or denial of motion(s), acceptance or denial of a statement of claim, dismissal of a statement of claim, including other important court events.
+
+**4.6** A court ruling is a written act by a court (or judge) that expresses an authoritative judgment on the resolution of both substantive and procedural issues.
+
+## | 5 | Types of court hearings
+
+**5.1** An open trial is a court hearing that is open to all persons who came to the hearing prior to the start of the trial and are not disruptive.
+
+**5.2** A closed trial is a trial at which only judges, the Server Attorney, and the representatives of all involved parties may attend.
+- **5.2.1** Other persons may attend the court only with the permission of the judge conducting the closed court session.
+- **5.2.2** Closed trials are allowed only in cases involving issues of Server Secrecy and (or) server importance, intimate relations of the parties, and when the Secret Branches of Mouldy Potato are involved.
+- **5.2.3** When a case is heard in closed court, the persons involved in the case may be classified by the court if their identity constitutes one of Mouldy Potato Secret Branches, as well as if the disclosure of their personal data is capable of creating a personal threat, or any other issue.
+
+**5.3** A trial in absentia is a type of trial conducted by a judge without the parties present, intended to promote procedural efficiency. Such a process is possible if the defendant(s) have been properly notified of the proceedings and have failed to inform the court of their intention to appear in defense. If one of multiple defendants notifies the court of their intention to defend themselves, a trial in absentia will not proceed.
+
+## | 6 |
+
+
+
+
 
 
