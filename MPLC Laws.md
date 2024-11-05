@@ -24,6 +24,7 @@ further force or effect after such rules have taken effect.
 - **2.3.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations or the situations that somehow involve both parties, although all their decisions should be within the bounds of existing laws and practices. 
 
 **2.4** ALL authorized local court representatives should be assigned by the Server Attorney following the joint decision made during the "law-juridical" conference.  
+- **2.4.1** If the law-juridical conference can't be held for various reasons. The Server Attorney can independently assign MPLC representatives.
         
 ## | 3 | Taking legal action      
 
