@@ -66,8 +66,27 @@
 
 **5.3** A trial in absentia is a type of trial conducted by a judge without the parties present, intended to promote procedural efficiency. Such a process is possible if the defendant(s) have been properly notified of the proceedings and have failed to inform the court of their intention to appear in defense. If one of multiple defendants notifies the court of their intention to defend themselves, a trial in absentia will not proceed.
 
-## | 6 |
+## | 6 | Rights and obligations of the participants in the court process.
 
+**6.1** The defendant or their legal representative, upon proper notification of the commencement of the trial, must inform the court or the Server Attorney within 72 hours of their intention to present a defense. If a party fails to fulfill this obligation, the court has the right to issue a judgment in absentia once the requested evidence has been obtained and/or the investigation is complete
+
+**6.2** All parties are responsible for being prepared for the trial.
+
+**6.3** Each person participating in the case shall prove the circumstances to which it refers as the basis of its claims and objections. 
+
+**6.4** Appearance at the court hearing is mandatory for all persons involved in the case. The parties are required to arrive 5 minutes before the scheduled time of the hearing to confirm their presence. If a party is unable to appear in person, they must be represented by a designated representative. The ACCUSED person must appear in person, regardless of whether a lawyer or other representative is available. If the accused is unable to attend the trial, they must notify the court in advance, providing a valid reason.
+
+**6.5** In case the parties to the case have evidence of the judge that may raise doubts about the impartiality of the court, they may request another judge for their case.
+
+**6.6** The parties have the right to bring their witnesses into the case that can confirm the factual or other circumstances of the case.
+
+**6.7** If the prosecution party does not appear and doesn't have a good excuse for that the case will be dismissed.
+
+**6.8** The parties have the right to request the Server Attorney or the Judge to postpone the trial if they prove circumstances preventing their attendance at the hearing. 
+
+**6.9** The parties have the right to make counterclaims before the final word stage, which must not be contrary to the law.
+
+**6.10** The parties have the right to request the involvement of The Server Attorney or the Supreme Court if there is evidence of an offense or law mistakes in the case, as well as to request the court to recognize persons or witnesses as improper defendants.
 
 
 
