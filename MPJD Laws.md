@@ -41,7 +41,7 @@
 
 **3.1** It is prohibited to provide any explanations on the merits of cases and materials before the Court, or to make them available for review, except by decision of the Supreme Court or the Server Attorney.
 
-**3.2** Agents of the Mouldy Potato Justice Department investigation and secret units are classified employees who are prohibited from revealing their identities, including to other government employees, without authorization from the Server Attorney.
+**3.2** Agents of the Mouldy Potato Justice Department secret units are classified employees who are prohibited from revealing their identities, including to other government employees, without authorization from the Server Attorney.
 
 **3.3** Information about confedentional MPDJ records and persons assisting them on a confidential basis may not be disclosed to the mebers of the server. Disclosure of such information is possible by order of the Server Attorney.
 
