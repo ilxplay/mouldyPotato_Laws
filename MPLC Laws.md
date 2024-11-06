@@ -21,7 +21,7 @@ further force or effect after such rules have taken effect.
 - **2.2.1** If the authorized local court representative can't fulfil their duties, this will raise a question of replacing them with more competent representatives, during the next coming "law-juridical" conference where this issue will be raised and resolved in cooperation with the Server Attorney.
 
 **2.3** Types of different local court representatives and their legal rights.
-- **2.3.1** *The Judge*: The Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
+- **2.3.1** *The Local Court Judge*: The Local Court Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
 - **2.3.2** *The Jury*: The jury has the obligation to discuss and give a verdict on the given local Mouldy Potato Minecraft server cases.
 - **2.3.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations or situations that somehow involve both parties, although all their decisions should be within the bounds of existing laws and practices. 
 
