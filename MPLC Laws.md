@@ -11,17 +11,19 @@ further force or effect after such rules have taken effect.
 
 **1.4** Any change of any local court rules, local court procedures, and local court practices is implemented and changed by the "law-juridical" conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's Discord and Minecraft servers
 
+**1.5** The local court has the full authority to implement a "local court decree" after a legal request from The Server Attorney. (*more in Legal Procedures act/punishments and measures*)
+
 ## | 2 | Authorized local court representatives
 
 **2.1** Authorized local court representatives are the persons who have gotten their legal right to represent a certain role in the local court.
 
-**2.2** Authorized local court representatives have a certain legal right to fulfill their duties. 
-- **2.2.1** If the authorized local court representative can't fulfill their duties, this will raise a question of replacing them with more competent representatives, during the next coming "law-juridical" conference where this issue will be raised and resolved in cooperation with the Server Attorney.
+**2.2** Authorized local court representatives have a certain legal right to fulfil their duties. 
+- **2.2.1** If the authorized local court representative can't fulfil their duties, this will raise a question of replacing them with more competent representatives, during the next coming "law-juridical" conference where this issue will be raised and resolved in cooperation with the Server Attorney.
 
 **2.3** Types of different local court representatives and their legal rights.
 - **2.3.1** *The Judge*: The Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
 - **2.3.2** *The Jury*: The jury has the obligation to discuss and give a verdict on the given local Mouldy Potato Minecraft server cases.
-- **2.3.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations or the situations that somehow involve both parties, although all their decisions should be within the bounds of existing laws and practices. 
+- **2.3.3** *Extern*: The externs are the authorities from the Mouldy Potato Supreme Court that oblige the right to observe and decide in controversial situations or situations that somehow involve both parties, although all their decisions should be within the bounds of existing laws and practices. 
 
 **2.4** ALL authorized local court representatives should be assigned by the Server Attorney following the joint decision made during the "law-juridical" conference.  
 - **2.4.1** If the law-juridical conference can't be held for various reasons. The Server Attorney can independently assign MPLC representatives.
@@ -49,7 +51,7 @@ further force or effect after such rules have taken effect.
 - **3.5.3** Local class action representatives may hire a private lawyer, they will not be able to obtain a public lawyer from Mouldy Potato law enforcement or the Server Attorney.
 - **3.5.4** Self-representing in court during the Local class action case is prohibited. To represent the collective group behind the Local case action you NEED a lawyer (*3.5.2, 3.5.3*)
 - **3.5.5** Minimal number of Local class action representers is 3.
-- **3.5.6** A "Local class action" has a priority over a "complaint".
+- **3.5.6** A "Local class action" has priority over a "complaint".
 
 ## | 4 | Mouldy Potato Local Court (*MPLC*) session process
 
