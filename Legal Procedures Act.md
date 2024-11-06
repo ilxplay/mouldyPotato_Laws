@@ -43,10 +43,23 @@
 - **3.2.7** Permanent Minecraft Server Ban.
 - **3.2.8** Permanent Minecraft and Discord server ban.
 
-**3.3** In-game decree is a measure that the Mouldy Potato Local Court can issue to a Mouldy Potato member/player to force the fulfillment of the server's law.
+**3.3** In-game Decree is a measure that the Mouldy Potato Local Court can issue to a Mouldy Potato member/player to force the fulfillment of the server's law. It's illegal to ignore the In-game Decree otherwise the case will be transferred to Mouldy Potato Supreme Court with more significant consequences for the member/player.
 - **3.3.1** In-game measures should be applied after the Server Attorney requests them and the Mouldy Potato Local Court (MPLC) agrees to fulfill the request. If the MPLC cannot fulfill it without a valid reason, the request will be sent to the Mouldy Potato Supreme Court (MPSC) for review and a verdict. If the MPSC determines that the request was lawful and that the denial by the MPLC was unwarranted, the Local Court Judge may face consequences for denying the Server Attorney's request.
 - **3.3.2** The In-game decree can be issued in these cases:
-- - **3.3.2.1** Inappropriate skin.
+  - **3.3.2.1** Inappropriate skin.
   - **3.3.2.2** Inappropriate nickname.
-- - 
+  - **3.3.2.3** Inappropriate base, structure, etc... appearance.
+  - **3.3.2.4** Inappropriate self-made landscaping, terraforming.
+  - **3.3.2.5** Inappropriate voice, music, and/or sounds.
+  - **3.3.2.6** Inappropriate tool naming.
+
+**3.4** Global Decree is a measure that the Mouldy Potato Supreme Court can issue to a Mouldy Potato member/player or an organization to force the fulfillment of the server's law. It's illegal to ignore the Global Decree otherwise player/member can be kicked or banned.
+- **3.4.1** Global Decree should be applied after a request from the Mouldy Potato Justice Department's prosecuting branch or the Server Attorney has been reviewed by the Mouldy Potato Supreme Court (MPSC). If the Supreme Court is temporarily unavailable for prompt action, the Server Attorney may decide to implement a temporary decree independently. Once the MPSC becomes available, the decree can be reviewed upon request by the server member or the organization.
+- **3.4.2** The Global Decree can be issued in these cases:
+  - **3.4.2.1** Inappropriate discord name/nickname.
+  - **3.4.2.2** Inappropriate discord profile picture/avatar.
+  - **3.4.2.3** Inappropriate discord profile description.
+  - **3.4.2.4** Inappropriate discord profile status.
+  - **3.4.2.5** Inappropriate discord voice, music and/or sounds.
+  - **3.4.2.6** If Mouldy Potato Local Court can't fulfill an In-game request with a valid reason. 
 
