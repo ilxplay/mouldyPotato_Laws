@@ -42,4 +42,4 @@
 - **3.2.7** Permanent Minecraft Server Ban.
 - **3.2.8** Permanent Minecraft and Discord server ban.
 
-**3.3** In-game measures are the type of measures that apply only to Minecraft Part of the server.
+**3.3** In-game measures are the type of measures that apply only to the Minecraft Part of the server.
