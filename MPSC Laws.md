@@ -20,12 +20,19 @@
 **2.2** Authorized Supreme Court representatives have a certain legal right to fulfill their duties.
 - **2.2.1** *to be decided*
 
-**2.3** Types of different Supreme Court representatives and their legal rights.
-- **2.3.1** *Supreme Court Judge* Mouldy Potato Supreme Court (*MPSC*) Judge is the
-- **2.3.2** *Server Attorney*
+**2.3** Types of different Supreme Court representatives and their legal rights in court.
+- **2.3.1** *Supreme Court Judge/President of the Supreme Court* The Supreme Court Judge is simultaneously the President Mouldy Potato Supreme Court (MPSC) and has the legal duty and authority to preside over trials and maintain order. They are also responsible for reviewing evidence to identify any potential legal issues. The Chief Judge may make decisions on trial cases and other documents on behalf of the Mouldy Potato Supreme Court, where permitted. 
+- **2.3.2** *Server Attorney* The Server Attorney is Mouldy Potato Justice Department extern he can if legally allowed transfer cases from the MPLC to MPSC. He can send Global decree requests to the Supreme Court Judge and fulfill other allowed legal duties.
+- **2.3.3** *Server Prosecutor* The Server Prosecutor need to deliver needed evidence and documents about the case to The Judge If needed and fulfill its other allowed legal duties.
 
 
-## | 3 | Taking legal action
+## | 3 | Supreme Court Judge duty and rights
 
-**2.1** 
+**3.1** The President of the Supreme Court considers all incoming private complaints against judges in terms of violation of applicable laws, bad faith, violation of ethical norms, violation of the rules of consideration of applications, and their prolongation (including unlawful refusals to satisfy petitions and objections). The result of consideration of such a complaint can be an initiation of the Server Attorney or/and Mouldy Potato Justice Department Investigation against the other Judge.
+
+**3.2** Ask the questions to both parties of the case in a court hearing
+
+**3.3** Bringing the charges for disrespect in court and requiring MPDJ to assist in the respect of the court.
+
+**3.4** 
 
