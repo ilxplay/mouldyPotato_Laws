@@ -35,6 +35,7 @@
 - **3.2.1** Time-Out - a measure of punishment consisting of timing out the player on the Mouldy Potato Discord Server for a given time.
 - **3.2.2** Removing speaking permissions on the Mouldy Potato Discord server.
 - **3.2.3** Kick - a measure of punishment by kicking the player from the discord server and removing his discord server roles.
+- - **3.2.3.1** If a server member is kicked out due to inactivity, they may request their roles back if they have a valid reason for their absence.
 - **3.2.4** Temporary Discord server ban without removal of the server roles. Duration: Between 1 day and 1 month.
 - - **3.2.4.1** Temporary Discord server ban with the removal of the server roles. Duration Between 1 day and 1 month.
 - **3.2.5** Permanent Discord server ban.
