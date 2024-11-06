@@ -11,7 +11,7 @@ further force or effect after such rules have taken effect.
 
 **1.4** Any change of any local court rules, local court procedures, and local court practices is implemented and changed by the "law-juridical" conference that is being held by the "Mouldy Potato" server owner and server attorney. Any decisions that are made during the conference by the conference leaders and participants are transferred to Mouldy Potato Supreme Court (*MPSC*) which decides whether the new practices and procedures were made based on compliance with the basic laws of the server, as well as not violate the legally recognized rights of the participants of Mouldy Potato's Discord and Minecraft servers
 
-**1.5** The local court has the full authority to implement a "local court decree" after a legal request from The Server Attorney. (*more in Legal Procedures act/punishments and measures*)
+**1.5** The local court has the full authority to implement an "In-game decree" after a legal request from The Server Attorney. (*more in Legal Procedures act/punishments and measures*)
 
 ## | 2 | Authorized local court representatives
 
