@@ -28,11 +28,11 @@
 - **2.2.1** Arrest - a measure of punishment consisting of placing a player in a Minecraft Prison.
 - **2.2.2** Fine - a measure of punishment consisting of making the player pay damages or pay a certain other amount of resources.
 - **2.2.3** Confiscation - a measure of punishment consisting of confiscating a player's Minecraft server property.
-- **2.2.4** Temporary Minecraft server ban between 3 hours and 1 week. (ALL Temporary Minecraft server bans with a duration longer then a week is being decided by Mouldy Potato Supreme Court)
+- **2.2.4** Temporary Minecraft server ban between 3 hours and 1 week. (ALL Temporary Minecraft server bans with a duration longer than a week are being decided by the Mouldy Potato Supreme Court)
 
 
 **3.2** Global punishment is the type of punishments that apply to all the cases being processed by the Supreme Court after violating Mouldy Potato Global Laws.
-- **3.2.1** Time-Out - a measure of punishment consisting of timing out the player on the Mouldy Potato Discord Server for a given time.
+- **3.2.1** Time-Out - a measure of punishment consisting of timing out the player on the Mouldy Potato Discord Server for a given time. (you don't need a Supreme Court verdict to do that)
 - **3.2.2** Removing speaking permissions on the Mouldy Potato Discord server.
 - **3.2.3** Kick - a measure of punishment by kicking the player from the discord server and removing his discord server roles.
 - - **3.2.3.1** Kicking a server member out due to inactivity will happen automatically, people kicked for inactivity may request their roles back if they have a valid reason for their absence.
@@ -43,4 +43,10 @@
 - **3.2.7** Permanent Minecraft Server Ban.
 - **3.2.8** Permanent Minecraft and Discord server ban.
 
-**3.3** In-game measures are the type of measures that apply only to the Minecraft Part of the server.
+**3.3** In-game decree is a measure that the Mouldy Potato Local Court can issue to a Mouldy Potato member/player to force the fulfillment of the server's law.
+- **3.3.1** In-game measures should be applied after the Server Attorney requests them and the Mouldy Potato Local Court (MPLC) agrees to fulfill the request. If the MPLC cannot fulfill it without a valid reason, the request will be sent to the Mouldy Potato Supreme Court (MPSC) for review and a verdict. If the MPSC determines that the request was lawful and that the denial by the MPLC was unwarranted, the Local Court Judge may face consequences for denying the Server Attorney's request.
+- **3.3.2** The In-game decree can be issued in these cases:
+- - **3.3.2.1** Inappropriate skin.
+  - **3.3.2.2** Inappropriate nickname.
+- - 
+
