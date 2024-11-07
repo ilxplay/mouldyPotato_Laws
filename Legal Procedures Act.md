@@ -6,17 +6,17 @@
 
 **1.2** The main purposes of the Legal Procedures Act are.
 - **1.2.1** Ensuring the enforcement of punishments for committed offenses.
-- **1.2.2** Prevention of violations of the rights of all Mouldy Potato members and enforcement of punishments for committed offenses.
+- **1.2.2** Prevention of violations of the rights of all Mouldy Potato members and enforcement of punishments for committed offenses against Mouldy Potato members.
 - **1.2.3** Ensuring fundamental rights.
 
-**1.3** The suspect shall have the right to an impartial and objective investigation within the time limits established by this Code.
+**1.3** The suspect shall have the right to an impartial and objective investigation within the limits established by this Act.
 
 ## | 2 | Investigation Laws
 
 **2.1** Legal Investigative Actions - actions related to the investigation of crimes and aimed at collecting evidence and establishing the circumstances of the crime committed.
-- **2.2.1** Interrogation - A part of the investigation that represents the procedure of interacting with persons related to the case, including witnesses, victims and suspects, in order to obtain their testimony and clarify the circumstances of events.
-- **2.3.2** Search - A detailed examination of an object or a base, including objects and structures, to search for and seize important materials.
-- - **2.3.2.1** To search someone's base you need to obtain a warrant from the server attorney.
+- **2.1.1** Interrogation - A part of the investigation that represents the procedure of interacting with persons related to the case, including witnesses, victims and suspects, in order to obtain their testimony and clarify the circumstances of events.
+- **2.1.2** Search - A detailed examination of an object or a base, including objects and structures, to search for and seize important materials.
+- - **2.1.2.1** To search someone's base you need to obtain a warrant from the server attorney.
 - **2.1.4** Arrest - the legal deprivation of liberty of a suspect or defendant after being found guilty of a crime.
 - **2.1.5** Confrontation questioning - the act of simultaneously questioning previously questioned persons when there are significant contradictions in their testimony.
 - **2.1.6** Identification — Identifying individuals based on evidence and testimony can assist in an investigation.
@@ -27,10 +27,10 @@
 ## | 3 |  Punishments and Measures
 
 **3.1** In-game punishments are the type of punishments that apply only to cases when the player violated the Mouldy Potato Minecraft Server Laws, and after being found guilty of a crime determined by the relevant law in cooperation with the MPLC. 
-- **2.2.1** Arrest - a measure of punishment consisting of placing a player in a Minecraft Prison.
-- **2.2.2** Fine - a measure of punishment consisting of making the player pay damages or pay a certain other amount of resources.
-- **2.2.3** Confiscation - a measure of punishment consisting of confiscating a player's Minecraft server property.
-- **2.2.4** Temporary Minecraft server ban between 3 hours and 1 week. (ALL Temporary Minecraft server bans with a duration longer than a week are being decided by the Mouldy Potato Supreme Court)
+- **3.1.1** Arrest - a measure of punishment consisting of placing a player in a Minecraft Prison.
+- **3.1.2** Fine - a measure of punishment consisting of making the player pay damages or pay a certain other amount of resources.
+- **3.1.3** Confiscation - a measure of punishment consisting of confiscating a player's Minecraft server property.
+- **3.1.4** Temporary Minecraft server ban between 3 hours and 1 week. (ALL Temporary Minecraft server bans with a duration longer than a week are being decided by the Mouldy Potato Supreme Court)
 
 
 **3.2** Global punishment is the type of punishments that apply to all the cases being processed by the Supreme Court after violating Mouldy Potato Global Laws.
@@ -69,7 +69,7 @@
 
 **4.1** Server members have the right to appeal the actions of MPDJ. They have the right to send a request to the MPSC about in case of an incident.
 
-**4.2** To investigate the Minecraft low-danger server rules violations like griefing, Admin rights, and other admin privileges CAN'T BE USED.
+**4.2** To investigate the Minecraft low-danger server rules violations like griefing, admin rights, and other admin privileges CAN'T BE USED.
   - **4.2.1** To investigate the Minecraft high-danger server rules violations, like duping, Admin rights, and other admin privileges can be used LIMITED without admin abuse.
 
 **4.3** In a criminal case, evidence includes any information that allows the court, server attorney, prosecutor, or investigator, to approve the procedures outlined in this Code—to establish the existence or absence of facts that need to be proven, as well as other circumstances relevant to the case. Correct types of evidence include:
@@ -79,7 +79,11 @@
 - **4.3.4** Physical evidence;
 - **4.3.5** Records of investigative and judicial actions;
 - **4.3.6** Other relevant documents.
+- **4.3.7** Discord voice chat capture.
+- **4.3.8** Minecraft voice chat capture.
+- **4.3.9** Discord screen recordings or screenshots.
+- **4.3.10** In-game screen recordings or screenshots.
 
-**4.?** A raid is a specialized investigative action involving a comprehensive search of the territory, and any other property belonging to an organization. It includes the search, and temporary arrest of all individuals present on the organization's premises when the raid begins, as well as a search of all chests, ender-chests, shulkers, etc... The primary purpose of a raid is to halt all criminal activities and arrest the organization's members.
-- **4.?.? Grounds for conducting a raid: A raid shall be conducted only based on a warrant issued by the Server Attorney. The warrant is issued based on a dossier containing sufficient evidence to establish the organization's activities as criminal.
+**4.4** A raid is a specialized investigative action involving a comprehensive search of the territory, and any other property belonging to an organization. It includes the search, and temporary arrest of all individuals present on the organization's premises when the raid begins, as well as a search of all chests, ender-chests, shulkers, etc... The primary purpose of a raid is to halt all criminal activities and arrest the organization's members.
+- **4.4.1 Grounds for conducting a raid: A raid shall be conducted only based on a warrant issued by the Server Attorney. The warrant is issued based on a dossier containing sufficient evidence to establish the organization's activities as criminal.
 
