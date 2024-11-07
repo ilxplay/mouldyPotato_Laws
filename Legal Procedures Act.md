@@ -73,12 +73,12 @@
   - **4.2.1** To investigate the Minecraft high-danger server rules violations, like duping, Admin rights, and other admin privileges can be used LIMITED without admin abuse.
 
 **4.3** In a criminal case, evidence includes any information that allows the court, server attorney, prosecutor, or investigator, to approve the procedures outlined in this Code—to establish the existence or absence of facts that need to be proven, as well as other circumstances relevant to the case. Correct types of evidence include:
-**4.3.1** Testimony of the suspect or accused;
-**4.3.2** Testimony of the victim or witnesses;
-**4.3.3** Conclusions and testimony from investigations;
-**4.3.4** Physical evidence;
-**4.3.5** Records of investigative and judicial actions;
-**4.3.6** Other relevant documents.
+- **4.3.1** Testimony of the suspect or accused;
+- **4.3.2** Testimony of the victim or witnesses;
+- **4.3.3** Conclusions and testimony from investigations;
+- **4.3.4** Physical evidence;
+- **4.3.5** Records of investigative and judicial actions;
+- **4.3.6** Other relevant documents.
 
 **4.?** A raid is a specialized investigative action involving a comprehensive search of the territory, and any other property belonging to an organization. It includes the search, and temporary arrest of all individuals present on the organization's premises when the raid begins, as well as a search of all chests, ender-chests, shulkers, etc... The primary purpose of a raid is to halt all criminal activities and arrest the organization's members.
 - **4.?.? Grounds for conducting a raid: A raid shall be conducted only based on a warrant issued by the Server Attorney. The warrant is issued based on a dossier containing sufficient evidence to establish the organization's activities as criminal.
