@@ -19,6 +19,7 @@ further force or effect after such rules have taken effect.
 
 **2.2** Authorized local court representatives have a certain legal right to fulfil their duties. 
 - **2.2.1** If the authorized local court representative can't fulfil their duties, this will raise a question of replacing them with more competent representatives, during the next coming "law-juridical" conference where this issue will be raised and resolved in cooperation with the Server Attorney.
+- **2.2.2** If the local court judge can't fulfill its duty he will be temporarily impeached by the Server Attorney. Afterwards, he can be fired by the Supreme Court judge if there's enough evidence that he can't complete the judge's duty.
 
 **2.3** Types of different local court representatives and their legal rights.
 - **2.3.1** *The Local Court Judge*: The Local Court Judge has the legal duty right to preside over trials and maintain order. They also review whether or not there are any illegality issues per the evidence submitted. If any of the evidence is not legitimate the judge may proceed to suspend the case and impose the punishment on the guilty party as suggested by the server attorney.
@@ -27,6 +28,8 @@ further force or effect after such rules have taken effect.
 
 **2.4** ALL authorized local court representatives should be assigned by the Server Attorney following the joint decision made during the "law-juridical" conference.  
 - **2.4.1** If the law-juridical conference can't be held for various reasons. The Server Attorney can independently assign MPLC representatives.
+
+**2.5** The local court judge assigned by the Server Attorney after completing the test and afterwards being approved by the Supreme Court Judge. 
         
 ## | 3 | Taking legal action      
 
