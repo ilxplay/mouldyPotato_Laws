@@ -9,6 +9,8 @@
 - **1.2.2** Prevention of violations of the rights of all Mouldy Potato members and enforcement of punishments for committed offenses.
 - **1.2.3** Ensuring fundamental rights.
 
+**1.3** The suspect shall have the right to an impartial and objective investigation within the time limits established by this Code.
+
 ## | 2 | Investigation Laws
 
 **2.1** Legal Investigative Actions - actions related to the investigation of crimes and aimed at collecting evidence and establishing the circumstances of the crime committed.
@@ -61,5 +63,23 @@
   - **3.4.2.3** Inappropriate discord profile description.
   - **3.4.2.4** Inappropriate discord profile status.
   - **3.4.2.5** Inappropriate discord voice, music and/or sounds.
-  - **3.4.2.6** If Mouldy Potato Local Court can't fulfill an In-game request with a valid reason. 
+  - **3.4.2.6** If Mouldy Potato Local Court can't fulfill an In-game request with a valid reason.
+
+## | 4 | Investigation laws
+
+**4.1** Server members have the right to appeal the actions of MPDJ. They have the right to send a request to the MPSC about in case of an incident.
+
+**4.2** To investigate the Minecraft low-danger server rules violations like griefing, Admin rights, and other admin privileges CAN'T BE USED.
+  - **4.2.1** To investigate the Minecraft high-danger server rules violations, like duping, Admin rights, and other admin privileges can be used LIMITED without admin abuse.
+
+**4.3** In a criminal case, evidence includes any information that allows the court, server attorney, prosecutor, or investigator, to approve the procedures outlined in this Code—to establish the existence or absence of facts that need to be proven, as well as other circumstances relevant to the case. Correct types of evidence include:
+**4.3.1** Testimony of the suspect or accused;
+**4.3.2** Testimony of the victim or witnesses;
+**4.3.3** Conclusions and testimony from investigations;
+**4.3.4** Physical evidence;
+**4.3.5** Records of investigative and judicial actions;
+**4.3.6** Other relevant documents.
+
+**4.?** A raid is a specialized investigative action involving a comprehensive search of the territory, and any other property belonging to an organization. It includes the search, and temporary arrest of all individuals present on the organization's premises when the raid begins, as well as a search of all chests, ender-chests, shulkers, etc... The primary purpose of a raid is to halt all criminal activities and arrest the organization's members.
+- **4.?.? Grounds for conducting a raid: A raid shall be conducted only based on a warrant issued by the Server Attorney. The warrant is issued based on a dossier containing sufficient evidence to establish the organization's activities as criminal.
 
