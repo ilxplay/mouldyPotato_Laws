@@ -18,7 +18,7 @@
 **2.1**  Authorized Supreme Court representatives have obtained the legal right to represent a certain role in the Supreme Court.
 
 **2.2** Authorized Supreme Court representatives have a certain legal right to fulfill their duties.
-- **2.2.1** *to be decided*
+- **2.2.1** If the Supreme Court Judge is unable to fulfill their legal duties, a temporary impeachment may be enacted until the supreme court judge can resume their responsibilities.
 
 **2.3** Types of different Supreme Court representatives and their legal rights in court.
 - **2.3.1** *Supreme Court Judge/President of the Supreme Court* The Supreme Court Judge is simultaneously the President Mouldy Potato Supreme Court (MPSC) and has the legal duty and authority to preside over trials and maintain order. They are also responsible for reviewing evidence to identify any potential legal issues. The Chief Judge may make decisions on trial cases and other documents on behalf of the Mouldy Potato Supreme Court, where permitted. 
@@ -26,9 +26,9 @@
 - **2.3.3** *Server Prosecutor* The Server Prosecutor need to deliver needed evidence and documents about the case to The Judge If needed and fulfill its other allowed legal duties.
 
 
-## | 3 | Supreme Court Judge duty and rights
+## | 3 | Supreme Court Judge Duty and rights
 
-**3.1** The President of the Supreme Court considers all incoming private complaints against judges in terms of violation of applicable laws, bad faith, violation of ethical norms, violation of the rules of consideration of applications, and their prolongation (including unlawful refusals to satisfy petitions and objections). The result of consideration of such a complaint can be an initiation of the Server Attorney or/and Mouldy Potato Justice Department Investigation against the other Judge.
+**3.1** Supreme Court judge considers all incoming private complaints against judges in terms of violation of applicable laws, bad faith, violation of ethical norms, violation of the rules of consideration of applications, and their prolongation (including unlawful refusals to satisfy petitions and objections). The result of consideration of such a complaint can be an initiation of the Server Attorney or/and Mouldy Potato Justice Department Investigation against the other Judge.
 
 **3.2** Ask the questions to both parties of the case in a court hearing
 
