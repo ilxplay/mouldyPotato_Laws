@@ -13,6 +13,8 @@ further force or effect after such rules have taken effect.
 
 **1.5** The local court has the full authority to implement an "In-game decree" after a legal request from The Server Attorney. (*more in Legal Procedures act/punishments and measures*)
 
+**1.6** Local Court judge has partly immunity against legal claims. He can be dissmised by the Server Attorney After 3 or more minor law violations, or after 1 major.
+
 ## | 2 | Authorized local court representatives
 
 **2.1** Authorized local court representatives are the persons who have gotten their legal right to represent a certain role in the local court.
