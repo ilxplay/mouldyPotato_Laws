@@ -7,7 +7,7 @@
 
 
 ### Head of Prosecuting Branch/Server Prosecutor: @_.yojo. 
-![Screenshot 2024-11-08 184316](https://github.com/user-attachments/assets/39ee14a2-f5c6-47c2-a807-60043403319a)
+![Screenshot 2024-11-08 184604](https://github.com/user-attachments/assets/f2f014fa-8361-484b-bcac-7bdab80175c9)
 
 
 ### Head of Mouldy Potato Public Lawyer Service (*Head of MPPLS*)/Public lawyer: @qossop
