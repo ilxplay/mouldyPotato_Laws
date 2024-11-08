@@ -16,6 +16,10 @@
 
 **1.5** The Mouldy Potato Server Prosecutor is a legal authority who is legally obligated to form written opinions, conduct investigations, collect evidence, and perform other duties as required by the court. In cases defined by law, the prosecutor represents the Mouldy Potato Server or complements if needed  the Server Attorney in court to support the prosecution.
 
+**1.6** Before the scheduled court hearing, the parties have the right to resolve the conflict independently - to conclude a settlement agreement.
+
+**1.7**
+
 ## | 2 | Inner Code Of Conduct
 
 **2.1** Justicial representatives should respect and comply with the law and act at all times in a manner that promotes public confidence in the integrity and impartiality of the judiciary.
@@ -40,6 +44,8 @@
 **3.3** When one of the sides wants to speak they need to ask The judge's permission.
 
 **3.4** If the judge asks for testimony from either party or poses a question, you should respond respectfully and politely.
+
+**3.5** It is forbidden to be late for a court hearing.
 
 ## | 4 | Duty and actions
 
