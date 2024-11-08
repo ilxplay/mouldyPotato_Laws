@@ -43,14 +43,33 @@
 
 **3.2** Agents of the Mouldy Potato Justice Department secret units are classified employees who are prohibited from revealing their identities, including to other government employees, without authorization from the Server Attorney.
 
-**3.3** Information about confedentional MPDJ records and persons assisting them on a confidential basis may not be disclosed to the mebers of the server. Disclosure of such information is possible by order of the Server Attorney.
+**3.3** Information about confidential MPDJ records and persons assisting them on a confidential basis may not be disclosed to the members of the server. Disclosure of such information is possible by order of the Server Attorney.
 
-**3.4** Information about confedential MPDJ records, and persons assisting them on a confidential basis, may be disclosed to other Mouldy Potato organisations, structures, and any other server members -ONLY- upon the decision of the Server Attorney.
+**3.4** Information about confidential MPDJ records, and persons assisting them on a confidential basis, may be disclosed to other Mouldy Potato organisations, structures, and any other server members -ONLY- upon the decision of the Server Attorney.
 
-**3.5** Server members have the right to appeal against actions of MPDJ employees: to the Server Attorney or to the Supreme Court if they believe that these actions caused infringement of their rights, inflicted moral damage or caused them losses.
+**3.5** Server members have the right to appeal against the actions of MPDJ employees: to the Server Attorney or to the Supreme Court if they believe that these actions caused an infringement of their rights, inflicted moral damage or caused them losses.
 
-## | 4 | Prosecuting Branch
+## | 4 | Server Attorney
 
-**4.1** The Prosecuting Branch will request that Mouldy Potato Members participate in questioning, provide testimony, explanations, and other procedural actions as outlined in current legislation and existing proceedings. Appearance upon such requests is mandatory; if a person is unwilling to comply, there will be consequences.
+**4.1** The Server Attorney has the right to start a legal case against any player if there's evidence against them.
 
-**4.2** In the course of an investigation, including in response to claims and/or suspected legal violations, to conduct any legally provided investigative actions, including the initiation of criminal cases, to seek the prosecution of individuals who have violated the law, and to issue law enforcement actions, including the preparation of a court lawsuit in accordance with established procedures and laws.
+**4.2** The Server Attorney has the right to assign, timeout or dismiss the Local Court Judges, Server Prosecutors, and Public and Private Lawyers.
+
+**4.3** The Server Attorney has the right to draft new laws.
+
+**4.4** The Server Attorney has the right to draft new server roles and positions.
+
+**4.5** The Server Attorney has the right to issue warrants.
+
+**4.6** The Server Attorney has the right to issue an ordinance. An ordinance is being posted by the Server Attorney in the "Ordinance" Channel in Discord. The ordinance is a legal request issued by the Server Attorney to force people to go to court or appear at a hearing, interrogation and other investigative actions. The ordinance can be the start of a lawsuit, the result of a lawsuit, or laws that were added, removed, or modified. 
+
+
+## | 5 | Prosecuting Branch
+
+**5.1** The Prosecuting Branch will request that Mouldy Potato Members participate in questioning, and provide testimony, explanations, and other procedural actions as outlined in current legislation and existing proceedings. Appearance upon such requests is mandatory; if a person is unwilling to comply, there will be consequences.
+
+**5.2** In the course of an investigation, including in response to claims and/or suspected legal violations, to conduct any legally provided investigative actions, including the initiation of criminal cases, to seek the prosecution of individuals who have violated the law, and to issue law enforcement actions, including the preparation of a court lawsuit in accordance with established procedures and laws.
+
+**5.3** The Server Prosecutor needs to start an investigation or other legal actions when needed.
+
+**5.4** 
