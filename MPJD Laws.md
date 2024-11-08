@@ -63,6 +63,8 @@
 
 **4.6** The Server Attorney has the right to issue an ordinance. An ordinance is being posted by the Server Attorney in the "Ordinance" Channel in Discord. The ordinance is a legal request issued by the Server Attorney to force people to go to court or appear at a hearing, interrogation and other investigative actions. The ordinance can be the start of a lawsuit, the result of a lawsuit, or laws that were added, removed, or modified. 
 
+**4.7** Other rights provided by other legal, acts, or documents.
+
 
 ## | 5 | Prosecuting Branch
 
@@ -72,4 +74,4 @@
 
 **5.3** The Server Prosecutor needs to start an investigation or other legal actions when needed.
 
-**5.4** 
+**5.4** The Server Prosecutor needs to send the dossier with the evidence to the Server Attorney to commence the lawsuit.
