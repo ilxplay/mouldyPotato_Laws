@@ -18,7 +18,9 @@
 
 **1.6** Before the scheduled court hearing, the parties have the right to resolve the conflict independently - to conclude a settlement agreement.
 
-**1.7**
+**1.7** The inviolability and independence of a judge is guaranteed by the server laws. It is prohibited to pressure a judge, his or her relatives or other relatated people and to show contempt for the court or the judge by insults or other actions aimed at undermining the judicial system, even if the judge is in an off-duty position. 
+
+
 
 ## | 2 | Inner Code Of Conduct
 
@@ -92,7 +94,21 @@
 
 **6.9** The parties have the right to make counterclaims before the final word stage, which must not be contrary to the law.
 
-**6.10** The parties have the right to request the involvement of The Server Attorney or the Supreme Court if there is evidence of an offense or law mistakes in the case, as well as to request the court to recognize persons or witnesses as improper defendants. If there is evidence of mistakes In the Supreme Court The Server Attorney needs to be requested immidiately.
+**6.10** The parties have the right to request the involvement of The Server Attorney or the Supreme Court if there is evidence of an offense or law mistakes in the case, as well as to request the court to recognize persons or witnesses as improper defendants. If there is evidence of mistakes In the Supreme Court The Server Attorney needs to be requested immediately.
+
+**6.11** The parties in court have the right:
+- **6.11.1** Familiarize themselves with all available case materials on the given proceedings.
+- **6.11.2** Give testimony and explanations on the case in court.
+- **6.11.3** Ask questions of other participants in the proceedings.
+- **6.11.4** Object to the arguments, questions, and statements of other participants in the proceedings.
+- **6.11.5** Being aware of all court decisions taken in these proceedings, as well as the right to challenge them in accordance with the procedure established by law;
+- **6.11.6** The defendant party can request a public lawyer before the start of the trial.
+
+
+
+
+
+
 
 
 
