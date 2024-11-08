@@ -78,7 +78,7 @@
 
 **6.5** In case the parties to the case have evidence of the judge that may raise doubts about the impartiality of the court, they may request another judge for their case.
 
-**6.6** The parties have the right to bring their witnesses into the case that can confirm the factual or other circumstances of the case.
+**6.6** The parties have the right to bring their witnesses into the case who can confirm the factual or other circumstances of the case.
 
 **6.7** If the prosecution party does not appear and doesn't have a good excuse for that the case will be dismissed.
 
@@ -86,7 +86,7 @@
 
 **6.9** The parties have the right to make counterclaims before the final word stage, which must not be contrary to the law.
 
-**6.10** The parties have the right to request the involvement of The Server Attorney or the Supreme Court if there is evidence of an offense or law mistakes in the case, as well as to request the court to recognize persons or witnesses as improper defendants.
+**6.10** The parties have the right to request the involvement of The Server Attorney or the Supreme Court if there is evidence of an offense or law mistakes in the case, as well as to request the court to recognize persons or witnesses as improper defendants. If there is evidence of mistakes In the Supreme Court The Server Attorney needs to be requested immidiately.
 
 
 
