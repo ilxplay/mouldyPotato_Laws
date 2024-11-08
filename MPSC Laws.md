@@ -18,7 +18,7 @@
 **2.1**  Authorized Supreme Court representatives have obtained the legal right to represent a certain role in the Supreme Court.
 
 **2.2** Authorized Supreme Court representatives have a certain legal right to fulfill their duties.
-- **2.2.1** If the Supreme Court Judge is unable to fulfill their legal duties, a temporary impeachment may be enacted until the supreme court judge can resume their responsibilities.
+- **2.2.1** If the Supreme Court Judge is unable to fulfill their legal duties, a temporary impeachment may be enacted until the Supreme Court judge can resume their responsibilities.
 
 **2.3** Types of different Supreme Court representatives and their legal rights in court.
 - **2.3.1** *Supreme Court Judge/President of the Supreme Court* The Supreme Court Judge is simultaneously the President Mouldy Potato Supreme Court (MPSC) and has the legal duty and authority to preside over trials and maintain order. They are also responsible for reviewing evidence to identify any potential legal issues. The Chief Judge may make decisions on trial cases and other documents on behalf of the Mouldy Potato Supreme Court, where permitted. 
@@ -34,5 +34,7 @@
 
 **3.3** Bringing the charges for disrespect in court and requiring MPDJ to assist in the respect of the court.
 
-**3.4** 
+**3.4** Review the cases and provide court hearings when needed.
+
+**3.5** 
 
