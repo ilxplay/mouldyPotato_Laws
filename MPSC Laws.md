@@ -4,9 +4,11 @@
 
 **1.1** The Supreme Court has the legal authority to approve and draft new server laws, as well as to amend and rewrite existing ones.
 
-**1.2** The Supreme Court has the legal authority to decide and arbitrate the so-called "global cases" within the existing laws. (*further in 2.1*)
+**1.2** The Supreme Court has the legal authority to decide and arbitrate the so-called "global cases" within the existing laws. 
 
-**1.3** The Supreme Court has the legal authority to initiate a global case against a server member. (*further in 2.2*)
+**1.3** The Supreme Court has the legal authority to initiate a global case against a server member. 
+
+**1.4** Review transferred cases from the MPLC.
 
 ## | 2 | Legal proceedings
 
@@ -30,11 +32,9 @@
 
 **3.1** Supreme Court judge considers all incoming private complaints against judges in terms of violation of applicable laws, bad faith, violation of ethical norms, violation of the rules of consideration of applications, and their prolongation (including unlawful refusals to satisfy petitions and objections). The result of consideration of such a complaint can be an initiation of the Server Attorney or/and Mouldy Potato Justice Department Investigation against the other Judge.
 
-**3.2** Ask the questions to both parties of the case in a court hearing
+**3.2** Ask the questions to both parties in a court hearing.
 
 **3.3** Bringing the charges for disrespect in court and requiring MPDJ to assist in the respect of the court.
 
-**3.4** Review the cases and provide court hearings when needed.
-
-**3.5** 
+**3.4** Various duties provided by other server laws. 
 
