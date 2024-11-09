@@ -10,6 +10,8 @@
 
 **1.4** Review transferred cases from the MPLC.
 
+**1.5** The decision of the Supreme Court is final and can not be appealed.
+
 ## | 2 | Legal proceedings
 
 **2.1** Any changes to the Supreme Court's laws and rules must first be discussed by the Law-Juridical Conference to establish a foundational concept. Afterward, this concept will be submitted to the Mouldy Potato Supreme Court (MPSC), which will finalize it and transform it into the appropriate law, rule, or practice.
@@ -38,3 +40,11 @@
 
 **3.4** Various duties provided by other server laws. 
 
+
+## | 4 | Taking legal action
+
+**4.1** "Global Complaint" is a legal action connected to more serious cases, Mouldy Potato General Laws, or discord-related cases. It's also a legal action that you took against another Mouldy Potato member or organization for committing an unlawful action against you or another server member.
+- **4.1.1** The "Global Complaint" must include legitimate proof of unlawful actions committed by the server member or an organization. It should also contain your Minecraft and Discord name/nickname, along with a detailed description of the entire situation.
+- **4.1.2** Within 3 days of receiving the complaint, the Mouldy Potato Justice Department representative will contact you for a possible date for the first Supreme Court hearing.
+
+**4.2** The Server Attorney with the MPDJ has the right to initiate a lawsuit against another player, bypassing the bureaucracy of the Global Complaint process. The MPDJ must inform the Supreme Court about their case in order to press charges against the Server Member or an organization and proceed with the lawsuit.
