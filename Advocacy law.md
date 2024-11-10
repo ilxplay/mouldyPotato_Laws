@@ -74,7 +74,7 @@
 - **3.2.3** A private attorney shall have all the rights and duties provided by this Law, as well as other legislation of the Mouldy Potato, and shall be responsible for the quality and timely provision of legal assistance.
 - **3.2.4** In his activities, a private lawyer shall be guided by the principles of legality, independence, confidentiality, and respect for human rights and freedoms.
 - **3.2.5** A private lawyer is obliged to ensure the protection of the rights and legitimate interests of his client at all stages of the proceedings, to advise him on all matters related to the case, and to take all lawful actions to achieve the best possible result for the client.
-- **3.2.6** A private lawyer can't to refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status, or other discriminatory grounds.
+- **3.2.6** A private lawyer can't refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status, or other discriminatory grounds.
 - **3.2.7** A private lawyer is obliged to inform the client about his rights, possible outcomes of the case, and conditions of rendering legal assistance, as well as to respect the confidentiality of the information received from the client.
 - **3.2.8** In case a private lawyer violates professional duties, he/she may be held liable.
 - **3.2.9** A Private lawyer license can be confiscated by the Server Attorney or the Supreme Court if he/she is being considered liable for not followings this or other laws.
@@ -82,6 +82,12 @@
 - **3.2.11** A Private lawyer provides legal assistance to Mouldy Potato members and organizations on legal cases.
 - **3.2.12** A member of Mouldy Potato is not eligible for a private lawyer license if he or she has a current lawyer profession ban.
 
+**3.3** Members of Mouldy Potato who have a license to practice private law are listed in a [specialized registry](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFZDMrcG-AGzZ6551Vm4y0RCSLOrLI4Jzqjmm8nlHChLfZAbj_EDYr4h_HBf-oaUkd4UUVk-c5LOdu/pubhtml) of the Mouldy Potato Justice Department in cases where a person is not listed in the registry, the license is invalid. 
+- **3.3.1** If you obtain a private lawyer license you don't actually need to be a private lawyer it's just an option.
+- **3.3.2** You need to renew your license once a year. To renew it you need to take the test that's provided by the Mouldy Potato Justice Department.
+  
+
+  
 
 
 
