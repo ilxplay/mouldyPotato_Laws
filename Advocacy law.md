@@ -2,13 +2,13 @@
 
 ## | 1 | General 
 
-**1.1** The activity of a lawyer shall be qualified legal assistance rendered on a professional basis by persons who have obtained the status of advocate in accordance with the procedure established by this law in order to protect the rights of Mouldy Potato members, and their freedoms and interests, as well as to ensure access to justice.
+**1.1** The activity of a lawyer shall be qualified legal assistance provided on a professional basis by persons who have obtained the status of a lawyer in accordance with the procedure established by this law in order to protect the rights of Mouldy Potato members, and their freedoms and interests, as well as to ensure access to justice.
 
 **1.2** Legal assistance provided in those cases is not considered advocacy:
-- **1.2.1** By employees of legal services of legal entities, as well as employees of state authorities;
-- **1.2.2** Participants and employees of organizations providing legal services, as well as individual entrepreneurs;
+- **1.2.1** By employees of legal services of legal entities, as well as employees of state authorities that are not the members of Mouldy Potato Public Lawyer Service;
+- **1.2.2** Participants and employees of organizations providing legal services, as well as individual entrepreneurs without a private lawyer license;
 
-**1.3** A lawyer shall be a person who has obtained the status of an advocate and the right to practice as an advocate in accordance with the procedure established by this Law. An advocate shall be an independent professional adviser on legal issues.
+**1.3** A lawyer shall be a person who has obtained the status of a lawyer and the right to practice as a lawyer in accordance with the procedure established by this Law. A lawyer shall be an independent professional adviser on legal issues.
 
 **1.4** Providing legal assistance, a lawyer:
 - **1.4.1** Gives consultations and references on legal issues both orally and in writing;
@@ -29,23 +29,23 @@
 ## | 2 | Rights and duties of a lawyer.
 
 **2.1** A lawyer may:
-**2.1.1** Collect information necessary for rendering legal assistance, including requesting certificates, characteristics, and other documents from server authorities, public associations, and other organizations by means of written advocate requests. Mouldy Potato Justice Department and other organizations shall, in accordance with the established procedure, be obliged to provide the advocate with the documents requested or copies thereof;
-**2.1.2** To question, with their consent, persons who presumably possess information relating to the case in which the advocate provides legal assistance.
+**2.1.1** Collect information necessary for rendering legal assistance, including requesting certificates, characteristics, and other documents from server authorities, public associations, and other organizations by means of written lawyer requests. Mouldy Potato Justice Department and other organizations shall, in accordance with the established procedure, be obliged to provide the lawyer with the documents requested or copies thereof;
+**2.1.2** To question, with their consent, persons who presumably possess information relating to the case in which the lawyer provides legal assistance.
 **2.1.3** Collect and present objects and documents that may be recognized as material and other evidence.
 **2.1.4** To meet with his/her client in private without hindrance, in conditions ensuring confidentiality.
 
 **2.2** A lawyer can not:
 - **2.2.1** Accept an assignment from a person who has applied to him for legal assistance if it is knowingly unlawful.
 - **2.2.2** To accept an assignment from a person who has applied to him for legal assistance in cases where he has an independent interest in the subject matter of the agreement with the client, which is different from the interest of this person.
-- **2.2.3** Take a position in the case against the will of the client, except for cases when the advocate is convinced of the existence of self-incrimination of the client.
+- **2.2.3** Take a position in the case against the will of the client, except for cases when the lawyer is convinced of the existence of self-incrimination of the client.
 - **2.2.4** Make public statements about the proof of guilt of the client if the latter denies it;
 - **2.2.5** Disclose information communicated to him by the client in connection with the provision of legal assistance to the latter without the consent of the client;
 - **2.2.6** Cooperate with organizations, people, or other structures carrying out investigative activities.
 
 **2.3** Lawyers Request
 - **2.3.1** A lawyer is entitled to submit to state authorities, and other organizations in accordance with the procedure established by this Law an official appeal on issues within the competence of the said authorities and organizations for the providing of references, characteristics and other documents necessary for the providing of qualified legal assistance.
-- **2.3.2** The granting of requested information to an advocate may be refused if:
-  - **2.3.2.1** The entity receiving the advocate's request does not have the requested information;
+- **2.3.2** The granting of the requested information to a lawyer may be refused if:
+  - **2.3.2.1** The entity receiving the lawyer's request does not have the requested information;
   - **2.3.2.2** The requested information is classified by law as information with limited access;
     
 **2.4** A lawyer shall:
@@ -55,7 +55,7 @@
 
 **2.5** Any information related to the provision of legal assistance by a lawyer to his/her client shall be an attorney-client privilege
 
-**2.6** An advocate may not be summoned and questioned as a witness about the circumstances which became known to him/her in connection with the application to him/her for legal assistance or in connection with its provision.
+**2.6** A lawyer may not be summoned and questioned as a witness about the circumstances which became known to him/her in connection with the application to him/her for legal assistance or in connection with its provision.
 
 ## | 3 | Status of a lawyer
 
@@ -64,7 +64,7 @@
 - **3.1.2** A public lawyer shall have all the rights and duties provided for by this Law and other legislation and is responsible for the quality and timely provision of legal assistance.
 - **3.1.3** A public lawyer is obliged to ensure the protection of the rights and legitimate interests of his client at all stages of the trial, to advise him on all matters related to the case, and to take all lawful actions to achieve the best possible result for the client.
 - **3.1.4** A public lawyer may not refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status, or other discriminatory grounds.
-- **3.1.5** All activities of public advocates shall be financed from the Mouldy Potato Justice Department budget allocated for these purposes.
+- **3.1.5** All activities of public lawyers shall be financed from the Mouldy Potato Justice Department budget allocated for these purposes.
 - **3.1.6** A Public lawyer license can be confiscated by the Server Attorney if he/she is being considered liable for not following this or other laws.
 - **3.1.7** A member of Mouldy Potato is not eligible for a public lawyer license if he or she has a current lawyer profession ban.
 
@@ -78,7 +78,7 @@
 - **3.2.7** A private lawyer is obliged to inform the client about his rights, possible outcomes of the case, and conditions of rendering legal assistance, as well as to respect the confidentiality of the information received from the client.
 - **3.2.8** In case a private lawyer violates professional duties, he/she may be held liable.
 - **3.2.9** A Private lawyer license can be confiscated by the Server Attorney or the Supreme Court if he/she is being considered liable for not followings this or other laws.
-- **3.2.10** A private lawyer shall be equal in rights with a public advocate, except for cases defined by this Law.
+- **3.2.10** A private lawyer shall be equal in rights with a public lawyer, except for cases defined by this Law.
 - **3.2.11** A Private lawyer provides legal assistance to Mouldy Potato members and organizations on legal cases.
 - **3.2.12** A member of Mouldy Potato is not eligible for a private lawyer license if he or she has a current lawyer profession ban.
 
@@ -86,9 +86,18 @@
 - **3.3.1** If you obtain a private lawyer license you don't actually need to be a private lawyer it's just an option.
 - **3.3.2** You need to renew your license once a year. To renew it you need to take the test that's provided by the Mouldy Potato Justice Department.
   
+**3.4** The Mouldy Potato Public Lawyer Service is headed by the Head of The Mouldy Potato Public Lawyer Service, appointed and dismissed by the Server Attorney.
+- **3.4.1** The Head of the MPPLS, within the limits of his competence, is vested with organizational, administrative, and economic duties, as well as the right to issue normative acts regulating the activities of the public and private lawyers.
+- **3.4.2** The Head of the MPPLS, the Server Attorney, and the Mouldy Potato Supreme Court shall have the right to issue, as well to cancel, the private and the public lawyer licenses exclusively in cases provided for in this Law or by other regulations and laws.
 
-  
+**3.5** The MPPLS is subordinated exclusively to the Server Attorney.
 
+**3.6** The leadership of the MPPLS shall report to the Server Attorney on the activities of the MPPLS when requested.
+
+**3.7** The Public Lawyers are subordinate to the Head of MPPLS and the Server Attorney.
+
+**3.6** The Mouldy Potato Public Lawyer Service may conduct background checks and re-certifications of persons licensed to practice as a private lawyer.  
+- **3.6.1** If the results of the review are unsatisfactory, the MPPLS may suspend or revoke the private lawyer license.
 
 
 
