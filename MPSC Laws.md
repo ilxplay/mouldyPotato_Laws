@@ -49,4 +49,4 @@
 
 **4.2** The Server Attorney with the MPDJ has the right to initiate a lawsuit against another player, bypassing the bureaucracy of the Global Complaint process. The MPDJ must inform the Supreme Court about their case in order to press charges against the Server Member or an organization and proceed with the lawsuit.
 
-**4.3** The Supreme Court has the right to issue a Juridical or any other server profession ban.
+**4.3** The Supreme Court has the right to issue a Juridical or any other server occupation ban.
