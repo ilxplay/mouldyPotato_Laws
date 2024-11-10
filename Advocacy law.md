@@ -82,7 +82,7 @@
 - **3.2.11** A Private lawyer provides legal assistance to Mouldy Potato members and organizations on legal cases.
 - **3.2.12** A member of Mouldy Potato is not eligible for a private lawyer license if he or she has a current lawyer profession ban.
 
-**3.3** Members of Mouldy Potato who have a license to practice private law are listed in a [specialized registry](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFZDMrcG-AGzZ6551Vm4y0RCSLOrLI4Jzqjmm8nlHChLfZAbj_EDYr4h_HBf-oaUkd4UUVk-c5LOdu/pubhtml) of the Mouldy Potato Justice Department in cases where a person is not listed in the registry, the license is invalid. 
+**3.3** Members of Mouldy Potato who have a license to practice private law are listed in a [specialized registry](https://docs.google.com/spreadsheets/d/1XdXHs3vOOmvwVArbD_n8JDZgqxTlrf9z0iz3Oep_xE8/edit?usp=sharing) of the Mouldy Potato Justice Departmentю. In cases where a person is not listed in the registry, the license is invalid. 
 - **3.3.1** If you obtain a private lawyer license you don't actually need to be a private lawyer it's just an option.
 - **3.3.2** You need to renew your license once a year. To renew it you need to take the test that's provided by the Mouldy Potato Justice Department.
   
