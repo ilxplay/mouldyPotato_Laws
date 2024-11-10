@@ -50,7 +50,7 @@
     
 **2.4** A lawyer shall:
 - **2.4.1** Honestly, reasonably, defend the rights and legitimate interests of the client by all means not prohibited by the law;
-- **2.4.2** To fulfil the requirements for mandatory participation of a lawyer as a defence counsel or representative in proceedings or other cases established by law, as well as to provide legal assistance to the Mouldy Potato Members in criminal cases.
+- **2.4.2** To fulfill the requirements for mandatory participation of a lawyer as a defense counsel or representative in proceedings or other cases established by law, as well as to provide legal assistance to the Mouldy Potato Members in criminal cases.
 - **2.4.3** Respect the attorney-client privilege.
 
 **2.5** Any information related to the provision of legal assistance by a lawyer to his/her client shall be an attorney-client privilege
@@ -63,9 +63,28 @@
 - **3.1.1** The Mouldy Potato Justice Department (*MPDJ*) appoints a public lawyer to participate in legal cases.
 - **3.1.2** A public lawyer shall have all the rights and duties provided for by this Law and other legislation and is responsible for the quality and timely provision of legal assistance.
 - **3.1.3** A public lawyer is obliged to ensure the protection of the rights and legitimate interests of his client at all stages of the trial, to advise him on all matters related to the case, and to take all lawful actions to achieve the best possible result for the client.
-- **3.1.4** A public lawyer may not refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status or other discriminatory grounds.
+- **3.1.4** A public lawyer may not refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status, or other discriminatory grounds.
 - **3.1.5** All activities of public advocates shall be financed from the Mouldy Potato Justice Department budget allocated for these purposes.
+- **3.1.6** A Public lawyer license can be confiscated by the Server Attorney if he/she is being considered liable for not following this or other laws.
+- **3.1.7** A member of Mouldy Potato is not eligible for a public lawyer license if he or she has a current lawyer profession ban.
 
-**3.2** A Private Layer is a person who carries out lawyer activity on the basis of a license obtained in accordance with the procedure established by the legislation and provides legal assistance on a paid basis.
-- **3.2.1** To obtain a private lawyer license you need to obtain 
+**3.2** A Private Lawyer is a person who carries out lawyer activity on the basis of a license obtained in accordance with the procedure established by the legislation and provides legal assistance on a paid basis.
+- **3.2.1** A Private lawyer needs to obtain a license, to obtain it you first need to obtain a public lawyer license and fulfill one of the following requirements: either serve for one month or complete five different cases. After meeting this requirement, you may then request a private license you can still work as a public lawyer while having a private license.
+- **3.2.2** A private lawyer shall have the right to independently establish the amount of payment for his services, conclude contracts on providing legal assistance to clients, and determine the conditions for their fulfillment.
+- **3.2.3** A private attorney shall have all the rights and duties provided by this Law, as well as other legislation of the Mouldy Potato, and shall be responsible for the quality and timely provision of legal assistance.
+- **3.2.4** In his activities, a private lawyer shall be guided by the principles of legality, independence, confidentiality, and respect for human rights and freedoms.
+- **3.2.5** A private lawyer is obliged to ensure the protection of the rights and legitimate interests of his client at all stages of the proceedings, to advise him on all matters related to the case, and to take all lawful actions to achieve the best possible result for the client.
+- **3.2.6** A private lawyer can't to refuse to provide legal assistance on the grounds of race, nationality, religion, gender, age, social status, or other discriminatory grounds.
+- **3.2.7** A private lawyer is obliged to inform the client about his rights, possible outcomes of the case, and conditions of rendering legal assistance, as well as to respect the confidentiality of the information received from the client.
+- **3.2.8** In case a private lawyer violates professional duties, he/she may be held liable.
+- **3.2.9** A Private lawyer license can be confiscated by the Server Attorney or the Supreme Court if he/she is being considered liable for not followings this or other laws.
+- **3.2.10** A private lawyer shall be equal in rights with a public advocate, except for cases defined by this Law.
+- **3.2.11** A Private lawyer provides legal assistance to Mouldy Potato members and organizations on legal cases.
+- **3.2.12** A member of Mouldy Potato is not eligible for a private lawyer license if he or she has a current lawyer profession ban.
+
+
+
+
+
+
 
