@@ -44,6 +44,7 @@
 - **3.2.6** Minecraft Server Ban for a duration longer then a week.
 - **3.2.7** Permanent Minecraft Server Ban.
 - **3.2.8** Permanent Minecraft and Discord server ban.
+- **3.2.9** An occupation ban is when you can't apply for or have a certain occupation.
 
 **3.3** In-game Decree is a measure that the Mouldy Potato Local Court can issue to a Mouldy Potato member/player to force the fulfillment of the server's law. It's illegal to ignore the In-game Decree otherwise the case will be transferred to Mouldy Potato Supreme Court with more significant consequences for the member/player.
 - **3.3.1** In-game measures should be applied after the Server Attorney requests them and the Mouldy Potato Local Court (MPLC) agrees to fulfill the request. If the MPLC cannot fulfill it without a valid reason, the request will be sent to the Mouldy Potato Supreme Court (MPSC) for review and a verdict. If the MPSC determines that the request was lawful and that the denial by the MPLC was unwarranted, the Local Court Judge may face consequences for denying the Server Attorney's request.
