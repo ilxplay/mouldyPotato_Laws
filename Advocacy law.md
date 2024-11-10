@@ -96,8 +96,8 @@
 
 **3.7** The Public Lawyers are subordinate to the Head of MPPLS and the Server Attorney.
 
-**3.6** The Mouldy Potato Public Lawyer Service may conduct background checks and re-certifications of persons licensed to practice as a private lawyer.  
-- **3.6.1** If the results of the review are unsatisfactory, the MPPLS may suspend or revoke the private lawyer license.
+**3.8** The Mouldy Potato Public Lawyer Service may conduct background checks and re-certifications of persons licensed to practice as a private lawyer.  
+- **3.8.1** If the results of the review are unsatisfactory, the MPPLS may suspend or revoke the private lawyer license.
 
 
 
