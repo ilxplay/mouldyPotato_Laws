@@ -3,9 +3,8 @@
 1. Go to the Mouldy Potato Discord Server.
    
 2. Find the "ticket" channel. File the fields that are needed.
-
 After the ticket is created you need to fill in the detailed description of your case, like in this example.
-Minecraft name(s):  (name)
+- Minecraft name(s):  (name)
 Discord name(s) / tags: (name/tag)
 Minecraft name(s) of the accused: (name)
 Discord name (s) of the accused: (name/tag)
