@@ -17,9 +17,14 @@
 ## Members | 3 |
 
 **3.1** Server Attorney:
+
 **3.2** MPSC Judge:
+
 **3.3** MPLC Judge:
+
 **3.4** Server Prosecutor:
+
 **3.5** Head of MPPLS:
-**3.6** Community representer.
-- **3.6.1** A community representer is chosen every month.
+
+**3.6** Community representative.
+- **3.6.1** A community representative is chosen every month.
