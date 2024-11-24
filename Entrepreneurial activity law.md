@@ -34,6 +34,7 @@
 **2.8** Registration procedure for Mpuldy Potato businesses.
 - **2.8.1** Registration of businesses must be done by the head of such company.
 - **2.8.2** Upon registration, a registration agreement is signed between the MPED and the head of the business, after which all registration data about the business and its head are entered into the relevant register, and the registration agreement itself is published in a discord channel "MPED happenings".
+- **2.8.3** After the expiration of the license, and if the business wants to extend it, it shall pay the price stated in this document.
 
 **2.9** Fees.
 - **2.9.1** Obtaining first business license | 20 dia's.
