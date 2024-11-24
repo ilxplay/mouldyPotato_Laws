@@ -28,4 +28,21 @@
 
 **2.7** Official MPED registers and the information contained there.
 - **2.7.1** The MPED shall maintain and keep up to date the following registers:
-  - **2.7.1.1** 
+  - **2.7.1.1** [Mouldy Potato | Private businesses registry](https://docs.google.com/spreadsheets/d/1lQyXF-Xre7-DXnlH3uGwKJQlH-UfsmX2L2TcXMYQ93I/edit?usp=sharing)
+- **2.7.2** The above registers are publicly available and may be used as a check on the status of registration, license validity, and other information available in these registers.
+
+**2.8** Registration procedure for Mpuldy Potato businesses.
+- **2.8.1** Registration of businesses must be done by the head of such company.
+- **2.8.2** Upon registration, a registration agreement is signed between the MPED and the head of the business, after which all registration data about the business and its head are entered into the relevant register, and the registration agreement itself is published in a discord channel "MPED happenings".
+
+**2.9** Fees.
+- **2.9.1** Obtaining first business license | 20 dia's.
+- **2.9.2** Obtaining a business license while having one | 40 dia's.
+- **2.9.3** Obtaining first 3 permits | 20 dia's
+- **2.9.4** Obtaining a permit while having more than 3 | 50 dia's
+
+
+
+
+
+
