@@ -51,4 +51,8 @@
 
 **2.5** It is forbidden to make loud or disturbing noises. **| Mute in vc | Timeout 5+ minutes|** 
 
+
+## | 2 | Other laws
+
+
  
