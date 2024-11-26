@@ -39,7 +39,7 @@
 
 **1.16** It is forbidden to interfere in the work of the server administration or create a hindrance to it. **| Warn | Kick|** 
 
-### | 1.1 | Chat or voice
+### | 2 | Chat or voice
 
 **2.1** Excessive use of CapsLock is prohibited | Timeout 5+ minutes |
 
@@ -52,7 +52,27 @@
 **2.5** It is forbidden to make loud or disturbing noises. **| Mute in vc | Timeout 5+ minutes|** 
 
 
-## | 2 | Other laws
+## | 3 | Criminal Code
+
+**4.1** Co-perpetrators of a crime, regardless of the type of complicity, shall be equally liable.
+
+**4.2** Committing a crime by a group of persons will entail stricter punishment.
+
+**4.3** A person who has committed a crime may be exempted from liability by the Court or the Server Attorney, if it has not entailed the infliction of major damage or a significant violation of the rights of the server members or organization, or the legally protected interests of the society.
+
+**4.4** Deadline for paying the fine is decided by the Local or Supreme Court Judge. It shall be between 3-14 days after the judge's verdict.
+
+**4.5** A fine could also include compensation for the victim.
+
+### | 4 | In-Game Laws and rules.
+
+**5.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) | Small Fine |
+
+**5.2** Murder, intentional killing without victim's approval. | Fine | 
+
+**5.3** Causing death by negligence | compensation |
+
+
 
 
  
