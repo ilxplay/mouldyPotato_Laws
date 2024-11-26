@@ -54,23 +54,25 @@
 
 ## | 3 | Criminal Code
 
-**4.1** Co-perpetrators of a crime, regardless of the type of complicity, shall be equally liable.
+**3.1** Co-perpetrators of a crime, regardless of the type of complicity, shall be equally liable.
 
-**4.2** Committing a crime by a group of persons will entail stricter punishment.
+**3.2** Committing a crime by a group of persons will entail stricter punishment.
 
-**4.3** A person who has committed a crime may be exempted from liability by the Court or the Server Attorney, if it has not entailed the infliction of major damage or a significant violation of the rights of the server members or organization, or the legally protected interests of the society.
+**3.3** A person who has committed a crime may be exempted from liability by the Court or the Server Attorney, if it has not entailed the infliction of major damage or a significant violation of the rights of the server members or organization, or the legally protected interests of the society.
 
-**4.4** Deadline for paying the fine is decided by the Local or Supreme Court Judge. It shall be between 3-14 days after the judge's verdict.
+**3.4** Deadline for paying the fine is decided by the Local or Supreme Court Judge. It shall be between 3-14 days after the judge's verdict.
 
-**4.5** A fine could also include compensation for the victim.
+**3.5** A fine could also include compensation for the victim.
 
 ### | 4 | In-Game Laws and rules.
 
-**5.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) | Small Fine |
+**4.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) | Small Fine |
 
-**5.2** Murder, intentional killing without victim's approval. | Fine | 
+**4.2** Murder, intentional killing without victim's approval. | Fine | 
 
-**5.3** Causing death by negligence | compensation |
+**4.3** Causing death by negligence | compensation |
+
+**4.4** Unlawful entering the base committed against the will of a player who owns it. | Fine |
 
 
 
