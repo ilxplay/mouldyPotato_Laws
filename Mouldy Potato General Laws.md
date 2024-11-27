@@ -66,13 +66,13 @@
 
 ### | 4 | In-Game Laws and rules.
 
-**4.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) | Small Fine |
+**4.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) **| Small Fine|**
 
-**4.2** Murder, intentional killing without victim's approval. | Fine | 
+**4.2** Murder, intentional killing without victim's approval. **| Fine|** 
 
-**4.3** Causing death by negligence | compensation |
+**4.3** Causing death by negligence **| Compensation|**
 
-**4.4** Unlawful entering the base committed against the will of a player who owns it. | Fine |
+**4.4** Unlawful entering the base committed against the will of a player who owns it. **| Fine|**
 
 
 
