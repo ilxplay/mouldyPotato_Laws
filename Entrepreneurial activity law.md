@@ -42,6 +42,8 @@
 - **2.9.3** Obtaining first 3 permits | 10 dia's
 - **2.9.4** Obtaining a permit while having more than 3 | 20 dia's
 
+**2.10** MPED head can organize a free license's and permits giveaways.
+
 
 
 
