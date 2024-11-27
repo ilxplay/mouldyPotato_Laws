@@ -37,10 +37,10 @@
 - **2.8.3** After the expiration of the license, and if the business wants to extend it, it shall pay the price stated in this document.
 
 **2.9** Fees.
-- **2.9.1** Obtaining first business license | 20 dia's.
-- **2.9.2** Obtaining a business license while having one | 40 dia's.
-- **2.9.3** Obtaining first 3 permits | 20 dia's
-- **2.9.4** Obtaining a permit while having more than 3 | 50 dia's
+- **2.9.1** Obtaining first business license | 10 dia's.
+- **2.9.2** Obtaining a business license while having one | 15 dia's.
+- **2.9.3** Obtaining first 3 permits | 10 dia's
+- **2.9.4** Obtaining a permit while having more than 3 | 20 dia's
 
 
 
