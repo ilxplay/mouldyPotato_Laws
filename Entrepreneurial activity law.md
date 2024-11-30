@@ -48,9 +48,9 @@
 
 **2.12** The MPED head can organize free licenses and permit giveaways.
 
-**2.13** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.3"**, oblige a right to issue permits.
+**2.13** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.4"**, oblige a right to issue permits.
 
-**2.14** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.3"**, oblige a right to issue business licenses. 
+**2.14** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.4"**, oblige a right to issue business licenses. 
 
 
 
