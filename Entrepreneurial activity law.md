@@ -16,7 +16,7 @@
 
 **2.2** The MPED is obliged to maintain and update registers and documentation related to business activities, interact with other server departments, and handle a variety of financial and economic cases.
 
-**2.3** The Server Attorney has the authority to conduct any procedure prescribed in this Act on behalf of the MPED if, for any reason, the staff of the MPWS is unable to do so.
+**2.3** The Server Attorney has the authority to conduct any procedure prescribed in this Act on behalf of the MPED if, for any reason, the staff of the MPED is unable to do so.
 
 **2.4** In case a person connected with business activity wishes to carry out the procedure of registration, payment of tax, license, fine, or other action related to the regulation of business activity. MPED is obliged to assist that person as fast as possible.
 - **2.4.1** To solve any related issue you should DN @slimemaster personally or send a ticket.
@@ -42,7 +42,11 @@
 - **2.9.3** Obtaining first 3 permits | 10 dia's
 - **2.9.4** Obtaining a permit while having more than 3 | 20 dia's
 
-**2.10** MPED head can organize a free license's and permits giveaways.
+**2.10** The MPED head can organize free licenses and permit giveaways.
+
+**2.11** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.3"**, oblige a right to issue permits.
+
+**2.12** The license issuing branch (*LIB*), the Head of MPED, and the Server Attorney as described in this act **"2.3"**, oblige a right to issue business licenses. 
 
 
 
