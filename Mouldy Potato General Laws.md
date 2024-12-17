@@ -16,7 +16,7 @@
 
 **1.7** It is forbidden to use and hide server bugs from the administration, as well as bypass game restrictions in any way. **| BAN 1+ day | Permanent BAN|**
 
-**1.8** Provocation or pushing to violate the server rules is forbidden, as well as the purposeful creation of situations with the purpose of violating the project rules by another player. **| Warn | Kick | BAN 1+ days|**
+**1.8** Provocation or pushing to violate the server rules is forbidden, as well as the purposeful creation of situations with the purpose of violating the project rules by another player. **| Warn | Kick | BAN 1+ day|**
 
 **1.9** Destructive actions towards the server are prohibited: non-constructive criticism calls to leave the server, attempts to disrupt the development of the server, attacks on project resources, or any other actions that can lead to interference in the gameplay or harm the administration outside the project. **| BAN 7+ days | Permanent BAN|**
 
