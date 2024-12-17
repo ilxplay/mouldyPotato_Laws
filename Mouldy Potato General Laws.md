@@ -20,7 +20,8 @@
 
 **1.9** Destructive actions towards the server are prohibited: non-constructive criticism calls to leave the server, attempts to disrupt the development of the server, attacks on project resources, or any other actions that can lead to interference in the gameplay or harm the administration outside the project. **| BAN 7+ days | Permanent BAN|**
 
-**1.10** Bullying/pushing for bullying outside the game world (in real life) is prohibited, leaking photos, dissemination of personal data, etc., which can somehow defame the honor and dignity of the player/administrator, for his further comfortable game/stay on the project is prohibited. **| Permanent BAN|** 
+**1.10** Bullying/pushing for bullying or any other forms of harassment including racism, sexism, anti-semitism, and homophobia, outside the game world (in real life) is prohibited. Leaking photos, dissemination of personal data, etc., which can somehow defame the honor and dignity of the player/administrator, for his further comfortable game/stay on the project is prohibited. **| Permanent BAN|** 
+- **1.10.1** Bullying/ pushing for bullying or any other forms of harassment in-game including racism, sexism, anti-semitism, homophobia. **| Warn | Kick | Ban 1+ day |**
 
 **1.11** It is forbidden to hide/assist project violators like cheaters etc., aiding them is qualified as complicity and is punished to the same extent as the violator himself.
 
