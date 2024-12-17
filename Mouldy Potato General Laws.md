@@ -32,7 +32,7 @@
 - **1.13.2** It is forbidden to ask questions not related to the functionality/game process.
 - **1.13.3** It is forbidden to write in the report using caps.
 - **1.13.4** It is forbidden to ask the administration to follow any transaction or in-game processes.
-- **1.13.5** It is forbidden to ask the Administration to give you any material benefits.
+- **1.13.5** It is forbidden to ask the administration to give you any material benefits.
 
 **1.14** It is forbidden to demand and/or offer any advantages on the server or outside of it for deleting complaints/publications, refusing to publish them, or purposefully making them. Punishment for violation of this rule will be given to the initiator of the deal and, if the deal was made, to both parties.
 
