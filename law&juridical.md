@@ -4,19 +4,22 @@
 
 ## General | 1 |
 
-**1.1**  The Law-Juridical Conference needs to be hosted, initiated and structured by the Server Attorney. Each member of the conference can still take the initiative and take action about all sorts of issues, questions, and problems for a discussion.
+**1.1**  The Law-Juridical conference needs to be hosted, initiated, and structured by the Server Attorney. Each member of the conference can still take the initiative and take action about all sorts of issues, questions, and problems for a discussion.
 
 **1.2** The Law-Juridical Conference is held every week on either Friday, Saturday, or Sunday.
 - **1.2.1** The Law-Juridical conference can be canceled or postponed due to the vacation days maximum 6 times a year.
-- **1.2.2** The Law-Juridical conference appearance is mandatory, you need to have a good reason skip the sitting.
+- **1.2.2** The Law-Juridical conference appearance is mandatory, you need to have a good reason to skip the sitting.
 
+**1.3** The passing of laws takes place during a voting.
+- **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain first point goes to yes, second goes to no.
+  
 ## Responsibilities | 2 |
 
 **2.1** 
 
 ## Members | 3 |
 
-**3.1** Server Attorney:
+**3.1** Server Attorney: is the chairman of the Law-Juridical conference, he initiates and hosts it. He can choose when the conference will happen, under which circumstances, and which topic will be the main subject.
 
 **3.2** Supreme Court Judge:
 
@@ -29,5 +32,5 @@
 **3.6** Head of Economics Department
 
 **3.6** Community representative.
-- **3.6.1** A community representative is chosen by the server members with a poll selection in the Discord server. The poll selection is hold once in 2 months.
+- **3.6.1** A community representative is chosen by the server members with a poll selection in the Discord server. The poll selection is held once in 2 months.
 - **3.6.2** A community representative can't be in office for more than 2 terms.
