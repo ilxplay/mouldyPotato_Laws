@@ -1,8 +1,8 @@
-# Law-Juridical conference (*LJC*)
+# The Law-Juridical conference (*LJC*)
 
 ### The Law-Juridical conference is the Supreme Council.
 
-## General | 1 |
+## | 1 | General
 
 **1.1**  The Law-Juridical conference needs to be hosted, initiated, and structured by the Server Attorney. Each member of the conference can still take the initiative and take action about all sorts of issues, questions, and problems for a discussion.
 
@@ -12,25 +12,25 @@
 
 **1.3** The passing of LJC's decisions takes place during voting.
 - **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain, the first point goes to yes, and the second goes to no.
-- **1.3.2** Server Attorney as a LJC chairman and speaker needs to initiate the voting, only when the official initiation happens voting results will be counted as legitimate and going to take action. 
+- **1.3.2** The Server Attorney as a LJC chairman and speaker needs to initiate the voting, only when the official initiation happens voting results will be counted as legitimate and will be active. 
   
-## Responsibilities and Duty | 2 |
+## | 2 | Responsibilities and Duty
 
 **2.1** Every decision or verdict made during the Law-Juridicial Conference shall not violate any of the existing laws, or legislations.
 - **2.1.1** If a violation of the laws or legislation happens, every conference member needs to take every possible legal step to ensure that the order will be restored. If the steps were not taken members may be held liable in violation of this particular law.
-- 
+- **2.1.2** If the Supreme Court orders that the decision or verdict violates existing legislation, it loses all legitimacy.
 **2.2** Ensuring that the RP part of the server exists optimally and correctly.
   
 **2.3** Issiung highest possible level of advice to server factions and governmental structures, and addressing inter-factional issues.
 
 **2.4** Creating mutual understanding and cooperation between the higher authorities and institutions of the server.
 
-**2.5** Discussions on potential legislation, decrees or other amendments.
+**2.5** Discussions on potential legislation, decrees, or other amendments.
 
 **2.6** Voting on server changes, and major RP part changes.
 
 
-## Members | 3 |
+## | 3 | Members
 
 **3.1** Server Attorney: is the chairman and the speaker of the Law-Juridical conference, he initiates and hosts it. He can choose when the conference will happen, under which circumstances, and which topic will be the main subject.
 
