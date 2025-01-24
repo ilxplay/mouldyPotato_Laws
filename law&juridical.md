@@ -17,11 +17,17 @@
 
 **2.1** Every decision or verdict made during the Law-Juridicial Conference shall not violate any of the existing laws, or legislations.
 - **2.1.1** If a violation of the laws or legislation happens, every conference member needs to take every possible legal step to ensure that the order will be restored. If the steps were not taken members may be held liable in violation of this particular law.
+- 
 **2.2** Ensuring that the RP part of the server exists optimally and correctly.
+  
 **2.3** Issiung highest possible level of advice to server factions and governmental structures, and addressing inter-factional issues.
+
 **2.4** Creating mutual understanding and cooperation between the higher authorities and institutions of the server.
+
 **2.5** Discussions on potential legislation, decrees or other amendments.
+
 **2.6** Voting on server changes, and major RP part changes.
+
 
 ## Members | 3 |
 
