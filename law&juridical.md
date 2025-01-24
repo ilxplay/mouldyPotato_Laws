@@ -1,6 +1,6 @@
 # Law-Juridical conference (*LJC*)
 
-### Law-Juridical conference is the Supreme Council of the Mouldy Potato Server
+### The Law-Juridical conference is the Supreme Council.
 
 ## General | 1 |
 
@@ -10,12 +10,13 @@
 - **1.2.1** The Law-Juridical conference can be canceled or postponed due to the vacation days maximum 6 times a year.
 - **1.2.2** The Law-Juridical conference appearance is mandatory, you need to have a good reason to skip the sitting.
 
-**1.3** The passing of laws takes place during a voting.
-- **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain first point goes to yes, second goes to no.
+**1.3** The passing of laws takes place during voting.
+- **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain, the first point goes to yes, and the second goes to no.
   
 ## Responsibilities | 2 |
 
-**2.1** 
+**2.1** Every decision or verdict made by Law-Juridicial Conference shall not violate any of the existing laws, or legislations.
+**2.1.1** If a violation of the laws or legislation happens, every conference member needs to take every possible, legal step to ensure that the order will be restored.
 
 ## Members | 3 |
 
