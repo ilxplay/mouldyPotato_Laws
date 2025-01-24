@@ -10,8 +10,9 @@
 - **1.2.1** The Law-Juridical conference can be canceled or postponed due to the vacation days maximum 6 times a year.
 - **1.2.2** The Law-Juridical conference appearance is mandatory, you need to have a good reason to skip the sitting.
 
-**1.3** The passing of laws takes place during voting.
+**1.3** The passing of LJC's decisions takes place during voting.
 - **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain, the first point goes to yes, and the second goes to no.
+- **1.3.2** Server Attorney as a LJC chairman and speaker needs to initiate the voting, only when the official initiation happens voting results will be counted as legitimate and going to take action. 
   
 ## Responsibilities and Duty | 2 |
 
@@ -31,7 +32,7 @@
 
 ## Members | 3 |
 
-**3.1** Server Attorney: is the chairman of the Law-Juridical conference, he initiates and hosts it. He can choose when the conference will happen, under which circumstances, and which topic will be the main subject.
+**3.1** Server Attorney: is the chairman and the speaker of the Law-Juridical conference, he initiates and hosts it. He can choose when the conference will happen, under which circumstances, and which topic will be the main subject.
 
 **3.2** Head Supreme Court Judge:
 
