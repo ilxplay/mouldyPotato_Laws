@@ -13,18 +13,23 @@
 **1.3** The passing of laws takes place during voting.
 - **1.3.1** Voting happens as a yes-refrain-no question. When voting yes, 2 points go to yes, when voting no 2 points go to no, when voting refrain, the first point goes to yes, and the second goes to no.
   
-## Responsibilities | 2 |
+## Responsibilities and Duty | 2 |
 
-**2.1** Every decision or verdict made by Law-Juridicial Conference shall not violate any of the existing laws, or legislations.
-**2.1.1** If a violation of the laws or legislation happens, every conference member needs to take every possible, legal step to ensure that the order will be restored.
+**2.1** Every decision or verdict made during the Law-Juridicial Conference shall not violate any of the existing laws, or legislations.
+- **2.1.1** If a violation of the laws or legislation happens, every conference member needs to take every possible legal step to ensure that the order will be restored. If the steps were not taken members may be held liable in violation of this particular law.
+**2.2** Ensuring that the RP part of the server exists optimally and correctly.
+**2.3** Issiung highest possible level of advice to server factions and governmental structures, and addressing inter-factional issues.
+**2.4** Creating mutual understanding and cooperation between the higher authorities and institutions of the server.
+**2.5** Discussions on potential legislation, decrees or other amendments.
+**2.6** Voting on server changes, and major RP part changes.
 
 ## Members | 3 |
 
 **3.1** Server Attorney: is the chairman of the Law-Juridical conference, he initiates and hosts it. He can choose when the conference will happen, under which circumstances, and which topic will be the main subject.
 
-**3.2** Supreme Court Judge:
+**3.2** Head Supreme Court Judge:
 
-**3.3** Local Court Judge:
+**3.3** Head Local Court Judge:
 
 **3.4** Server Prosecutor:
 
