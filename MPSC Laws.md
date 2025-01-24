@@ -8,7 +8,9 @@
 
 **1.3** The Supreme Court has the legal authority to initiate a global case against a server member. 
 
-**1.4** Review transferred cases from the MPLC.
+**1.4** The Supreme Court is entitled to review and in case of law violations, to challenge the decisions of Law-Juridical Conference (*Supreme Counsil*)
+
+**1.4** Review transferred cases from the Local Court.
 
 **1.5** The decision of the Supreme Court is final and can not be appealed.
 
