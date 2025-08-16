@@ -4,24 +4,24 @@
 
 **1.1** Not knowing the server rules does not exempt a player from responsibility for their violation.
 
-**1.2** By joining a Discord or Minecraft server, the player agrees to all the rules of the server on which he plays.
+**1.2** By joining a Discord or Minecraft server, the player agrees to all the rules of the server on which they play.
 
-**1.3** Adjustments to the server rules can be made at any time, ignorance of the current version of the rules does not exempt from responsibility for their violation.
+**1.3** Adjustments to the server rules can be made at any time ignorance of the current version of the rules does not exempt from responsibility for their violation.
 
 **1.4** The use, as well as storage of any cheats, mods, programs, scripts, and modifications that give an advantage over other players, including those built into peripherals (keyboard/mouse), as well as any technical modifications or non-standard methods of using peripherals, is prohibited. **| BAN 1+ day | Permanent BAN|** 
 
-**1.5** Any modifications to the operating system, tweaks that interfere with or disable entries in the computer's activity, registry branches, and other sections that should be checked if you suspect the use of third-party software are prohibited. **| Warn | BAN 1+ day | Permanent BAN|**
+**1.5** Any modifications to the operating system, tweaks that interfere with or disable entries in the computer's activity, registry branches, and other sections should be checked if you suspect the use of third-party software is prohibited. **| Warn | BAN 1+ day | Permanent BAN|**
 
-**1.6** It is forbidden to distribute any cheats, mods, programs, scripts, and modifications that give an advantage over other players. **| BAN 7+ days | Permanent BAN|** 
+**1.6** It is forbidden to distribute any cheats, mods, programs, scripts, or modifications that give an advantage over other players. **| BAN 7+ days | Permanent BAN|** 
 
 **1.7** It is forbidden to use and hide server bugs from the administration, as well as bypass game restrictions in any way. **| BAN 1+ day | Permanent BAN|**
 
-**1.8** Provocation or pushing to violate the server rules is forbidden, as well as the purposeful creation of situations with the purpose of violating the project rules by another player. **| Warn | Kick | BAN 1+ day|**
+**1.8** Provocation or pushing to violate the server rules is forbidden, as well as the purposeful creation of situations to violate the project rules by another player. **| Warn | Kick | BAN 1+ day|**
 
 **1.9** Destructive actions towards the server are prohibited: non-constructive criticism calls to leave the server, attempts to disrupt the development of the server, attacks on project resources, or any other actions that can lead to interference in the gameplay or harm the administration outside the project. **| BAN 7+ days | Permanent BAN|**
 
-**1.10** Bullying/pushing for bullying or any other forms of harassment including racism, sexism, anti-semitism, and homophobia, outside the game world (in real life) is prohibited. Leaking photos, dissemination of personal data, etc., which can somehow defame the honor and dignity of the player/administrator, for his further comfortable game/stay on the project is prohibited. **| Permanent BAN|** 
-- **1.10.1** Bullying/ pushing for bullying or any other forms of harassment in-game including racism, sexism, anti-semitism, homophobia. **| Warn | Kick | Ban 1+ day |**
+**1.10** Bullying/pushing for bullying or any other forms of harassment, including racism, sexism, anti-semitism, and homophobia, outside the game world (in real life) is prohibited. Leaking photos, dissemination of personal data, etc., which can somehow defame the honor and dignity of the player/administrator, for his further comfortable game/stay on the project is prohibited. **| Permanent BAN|** 
+- **1.10.1** Bullying/ pushing for bullying or any other forms of harassment in-game, including racism, sexism, anti-semitism, and homophobia. **| Warn | Kick | Ban 1+ day |**
 
 **1.11** It is forbidden to hide/assist project violators like cheaters etc., aiding them is qualified as complicity and is punished to the same extent as the violator himself.
 
@@ -69,11 +69,11 @@
 
 **4.1** Inflicting bodily injury, as well as trying to kill a player. (Inflicting bodily injury applies after more than 20% of a player's health was lost.) **| Small Fine|**
 
-**4.2** Murder, intentional killing without victim's approval. **| Fine|** 
+**4.2** Murder, intentional killing without the victim's approval. **| Fine|** 
 
 **4.3** Causing death by negligence **| Compensation|**
 
-**4.4** Unlawful entering the base committed against the will of a player who owns it. **| Fine|**
+**4.4** Unlawful entry into the base is committed against the will of a player who owns it. **| Fine|**
 
 
 
